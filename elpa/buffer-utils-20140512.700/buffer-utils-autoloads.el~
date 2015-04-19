@@ -1,0 +1,13 @@
+;;; buffer-utils-autoloads.el --- automatically extracted autoloads
+;;
+;;; Code:
+
+
+(provide 'buffer-utils-autoloads)
+;; Local Variables:
+;; version-control: never
+;; no-byte-compile: t
+;; no-update-autoloads: t
+;; coding: utf-8
+;; End:
+;;; buffer-utils-autoloads.el ends here
