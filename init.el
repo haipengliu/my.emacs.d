@@ -29,7 +29,7 @@
 (require 'indent-guide)
 (indent-guide-global-mode)
 (set-face-background 'indent-guide-face "dimgray")
-(setq indent-guide-char "|")
+(setq indent-guide-char ".")
 
 (require 'helm)
 (require 'helm-config)
@@ -82,7 +82,7 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  '(custom-enabled-themes (quote (sanityinc-solarized-dark)))
- '(custom-safe-themes (quote ("4aee8551b53a43a883cb0b7f3255d6859d766b6c5e14bcb01bed572fcbef4328" default))))
+ '(custom-safe-themes (quote ("1297a022df4228b81bc0436230f211bad168a117282c20ddcba2db8c6a200743" "4aee8551b53a43a883cb0b7f3255d6859d766b6c5e14bcb01bed572fcbef4328" default))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
@@ -122,8 +122,47 @@
 
 ;; turn on semantic
 ;;(semantic-mode t)
-(defun my:add-semantic-to-autocomplete()
-  (add-to-list 'ac-sources 'ac-sources-semantic)
- )
-(add-hook 'c-mode-common-hook 'my:add-semantic-to-autocomplete)
+;; (defun my:add-semantic-to-autocomplete()
+;;   (add-to-list 'ac-sources 'ac-sources-semantic)
+;;  )
+;; (add-hook 'c-mode-common-hook 'my:add-semantic-to-autocomplete)
+
+;;rebox2
+(require 'rebox2)
+(setq rebox-style-loop '(24 16))
+(define-key global-map (kbd "M-q") 'rebox-dwim)
+(define-key global-map (kbd "M-u") 'rebox-cycle)
+;;(global-set-key (kbd "M-m m") 'rebox-dwim)
+;;(global-set-key (kbd "M-m u") 'rebox-cycle)
+;;sets comments to use "/* ... */" style in c++-mode
+;;adds Doxygen box style for C++
+(defun my-rebox-setup ()
+  (setq comment-start "/* "
+        comment-end " */")
+        (unless (memq 46 rebox-style-loop)
+         (make-local-variable 'rebox-style-loop)
+         (nconc rebox-style-loop '(46))))
+(add-hook 'c++-mode-common-hook 'my-rebox-setup)
+(add-hook 'c-mode-common-hook 'my-rebox-setup)
+
+(require 'readline-complete)
+(add-to-list 'ac-modes 'shell-mode)
+(add-hook 'shell-mode-hook 'ac-rlc-setup-sources)
+
+;; (setq
+;;   ;; use gdb-many-windows by default
+;;   gdb-many-windows t
+
+;;    ;; Non-nil means display source file containing the main routine at startup
+;;    gdb-show-main t
+;; )
+
+(setq explicit-shell-file-name "bash")
+(setq explicit-bash-args '("-c" "export EMACS=; stty echo; bash"))
+(setq comint-process-echoes t)
+
+;;(require 'company)
+;;(add-hook 'after-init-hook 'global-company-mode)
+
+
 
