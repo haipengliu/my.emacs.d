@@ -1,66 +1,76 @@
-((("ggtags" .
-   [0 0 1 0 0 0])
-  ("ido-mode" .
-   [0 0 0 0 0 0 0 1])
-  ("buffer-utils" .
-   [0 0 0 0 0 0 0 0 1 0 0 0])
-  ("buffer-stack-up" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 2 0])
-  ("buffer-stack" .
-   [0 0 0 0 0 0 0 0 0 1 0 0])
-  ("smartparens-global-mode" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
-  ("smartparens-config" .
-   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("goto-line" .
-   [1 0 0 0 0 0 0 0 0])
-  ("iedit-mode" .
-   [1 0 0 0 0 0 0 0 0 0])
-  ("kbd" .
+((("my:add-semantic-to-autocomplete" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("c-mode-common-hook" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("semantic-mode" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("C-c" .
    [1 0 0])
-  ("global-map" .
-   [0 0 1 0 0 0 0 0 0 1])
-  ("define-key" .
-   [0 0 0 0 0 0 0 0 0 2])
-  ("expand-region-abbrevs" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("expand-region" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("while" .
+   [0 0 0 2 0])
+  ("cc-mode" .
+   [2 0 0 0 0 0 0])
+  ("turn-on-save-visited-files-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("save-visited-files" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
   ("load-path" .
-   [0 0 0 0 0 0 1 0 2])
-  ("add-to-list" .
-   [0 0 0 0 0 0 0 0 0 0 3])
+   [0 0 0 0 0 0 0 0 1])
+  ("my:flymake-google-init" .
+   [0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("flymake-google-cpplint" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("achead:include-directories" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("achead:ac-prefix" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("require" .
+   [0 0 0 0 0 0 9])
+  ("yasnippet" .
+   [0 0 0 1 0 0 0 0 0])
   ("yas-global-mode" .
    [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
-  ("yasnippet" .
-   [0 0 0 0 0 1 0 0 0])
-  ("require" .
-   [0 0 0 0 0 0 15])
-  ("window-numbering-mode" .
-   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
-  ("er/expand-region" .
-   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("shell" .
-   [1 0 0 0 0])
-  ("flymake-mode-on" .
-   [0 0 0 1 0 0 0 1 0 0 0 0 0 0 0])
-  ("smartparens" .
-   [0 0 0 0 1 0 0 0 0 0 0])
-  ("smartparens-mode" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
-  ("autopair" .
+  ("defun" .
+   [2 0 0 0 1])
+  ("autoload" .
    [0 0 0 0 0 1 0 0])
-  ("autopair-global-mode" .
-   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
-  ("show-paren-mode" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
-  ("indent" .
-   [0 0 0 0 0 1])
-  ("indent-guide" .
-   [0 0 0 0 0 0 0 0 1 0 0 0])
-  ("indent-guide-global-mode" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
-  ("helm-dir-is-dot" .
-   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
-  ("flycheck" .
-   [1 0 0 0 1 0 0 0])))
+  ("auto-complete-c-headers" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("add-to-list" .
+   [0 0 0 0 0 0 0 0 0 0 4])
+  ("ac-sources" .
+   [1 0 0 0 0 0 0 0 0 2])
+  ("ac-source-css-property" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("add-hook" .
+   [1 0 0 0 0 0 0 4])
+  ("c++-mode-hook" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("my:ac-c-header-init" .
+   [0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("c-mode-hook" .
+   [0 0 0 0 0 0 0 0 0 0 3])
+  ("define-key" .
+   [0 0 0 0 0 0 0 0 0 2])
+  ("global-map" .
+   [0 0 0 0 0 0 0 0 0 2])
+  ("kbd" .
+   [2 0 0])
+  ("iedit-mode" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("goto-line" .
+   [0 0 0 0 0 0 1 0 0])
+  ("init-themes" .
+   [0 0 0 0 0 0 0 0 0 1 0])
+  ("smex" .
+   [1 0 0 0])
+  ("smex-pkg" .
+   [0 0 0 0 0 1 0 0])
+  ("setq-default" .
+   [0 0 0 0 0 0 0 1 0 0 0 0])
+  ("indent-tabs-mode" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("semantic" .
+   [0 0 0 0 0 0 0 2])
+  ("c" .
+   [1])))
