@@ -70,6 +70,8 @@
 (require 'save-visited-files)
 (turn-on-save-visited-files-mode)
 
+(desktop-save-mode 1)
+
 (require 'smex)
 (smex-initialize)
 (global-set-key (kbd "M-x") 'smex)
