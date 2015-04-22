@@ -1,0 +1,205 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Wed Apr 22 18:26:51 2015
+;; Desktop file format version 206
+;; Emacs version 24.3.1
+
+;; Global section:
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("expand-e" "yet another sn" "yas" "indent" "string&" "rea" "readEnd" "function arg" "function args"))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("/root/.emacs.d/init.el" "/root/.emacs.d/elpa/yasnippet-20150415.244/yasnippet.el" "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/cc-mode/if" "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/c++-mode/cout" "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/go-mode/if" "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/java-mode/for" "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/java-mode/while" "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/java-mode/if" "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/cc-mode/if" "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/cc-mode/while" "/root/.emacs.d/init.el" "/home/scnhpl/CAS/CASIDX-createTable/casidx_create_table.c" "/root/.emacs.d/init.el" "/tg/my/leetcode/src/wordLadder/wordLadder.II.cpp" "/tg/my/leetcode/src/wordLadder/wordLadderII_scnhpl.cpp"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/cc-mode/if"
+  "if"
+  'snippet-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode)
+  102
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX-createTable/casidx_create_table.c"
+  "casidx_create_table.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  3075
+  '(3071 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/root/.emacs.d/init.el"
+  "init.el"
+  'emacs-lisp-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode)
+  3045
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/root/.emacs.d/elpa/yasnippet-20150415.244/yasnippet.el"
+  "yasnippet.el"
+  'emacs-lisp-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode)
+  33215
+  '(1 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/c++-mode/cout"
+  "cout"
+  'snippet-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/go-mode/if"
+  "if<3><2>"
+  'snippet-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/java-mode/for"
+  "for<2><2>"
+  'snippet-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/java-mode/if"
+  "if<2>"
+  'snippet-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/cc-mode/while"
+  "while"
+  'snippet-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode)
+  13
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/cc-mode/ifdef"
+  "ifdef"
+  'snippet-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/snippet-mode/cont"
+  "cont"
+  'snippet-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/snippet-mode/vars"
+  "vars"
+  'snippet-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/emacs-lisp-mode/if"
+  "if<2><2>"
+  'snippet-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode)
+  60
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/cc-mode/for"
+  "for"
+  'snippet-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/wordLadder/wordLadder.II.cpp"
+  "wordLadder.II.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  1305
+  '(2268 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/wordLadder/wordLadderII_scnhpl.cpp"
+  "wordLadderII_scnhpl.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  3435
+  '(3428 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/usr/share/emacs/24.3/lisp/loaddefs.el"
+  "loaddefs.el"
+  'emacs-lisp-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode)
+  306660
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+

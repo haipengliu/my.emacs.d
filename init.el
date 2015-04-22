@@ -93,7 +93,6 @@
  )
 
 (require 'cc-mode)
-(setq-default indent-tabs-mode t)
 (setq c-default-style "gnu")
 (global-set-key (kbd "RET") 'newline-and-indent)  ; automatically indent when press RET
 ;; activate whitespace-mode to view all whitespace characters
@@ -166,5 +165,6 @@
 ;;(require 'company)
 ;;(add-hook 'after-init-hook 'global-company-mode)
 
-
+(require 'eldoc)
+(eldoc-mode 1)
 
