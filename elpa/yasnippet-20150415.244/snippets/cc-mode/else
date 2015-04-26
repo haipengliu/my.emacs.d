@@ -1,0 +1,8 @@
+# name : else
+# key: else
+# expand-env: ((yas-indent-line 'fixed))
+# --
+else
+{
+  $0
+}
