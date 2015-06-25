@@ -2,7 +2,7 @@
 ;; --------------------------------------------------------------------------
 ;; Desktop File for Emacs
 ;; --------------------------------------------------------------------------
-;; Created Tue May 12 15:42:21 2015
+;; Created Wed Jun 24 23:47:22 2015
 ;; Desktop file format version 206
 ;; Emacs version 24.3.1
 
@@ -10,12 +10,672 @@
 (setq desktop-missing-file-warning nil)
 (setq tags-file-name nil)
 (setq tags-table-list nil)
-(setq search-ring '("delete" "append_table(" "append" "delete" "worker_get" "root_rank" "create_" "add_ith" "vList" "append_table" "setup" "tmp_t" "CASIDX_APPEND_TABLE_ACTION_" "save" "stop_" "add_"))
+(setq search-ring '("read_input" "tkcastabDrop" "create_index" "handler" "remove_index" "init_ac" "create_empty" "get_at_dp" "init_ac	" "actx->po" "pool" "act->bu" "thread_idx" "call" "tkmAll" "build_sta"))
 (setq regexp-search-ring nil)
 (setq register-alist nil)
-(setq file-name-history '("/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/cc-mode/while" "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/cc-mode/do" "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/cc-mode/if" "/home/scnhpl/code_exe/round_robin.cpp" "/tg/my/leetcode/src/letterCombinationsOfAPhoneNumber/letterCombinationsofAPhoneNumber_pp.cpp" "/home/scnhpl/CAS/CASIDX-appendTable/tkmcidx.tkmsg" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_10MAY2015_sendSerially.c" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_10MAY2015_averageRowNum.c" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_07MAY2015_NotPromoteTempTable.c" "/tg/my/leetcode/src/letterCombinationsOfAPhoneNumber/letterCombinationsofAPhoneNumber_pp.cpp" "/tg/my/leetcode/src/letterCombinationsOfAPhoneNumber/letterCombinationsofAPhoneNumber_pp" "/home/scnhpl/.bash_profile" "/root/.bash_profile" "/home/scnhpl/.bash_profile" "/root/.bash_profile" "/tg/my/leetcode/src/letterCombinationsOfAPhoneNumber/letterCombinationsOfAPhoneNumber.cpp" "/tg/my/leetcode/src/letterCombinationsOfAPhoneNumber/letterCombinationsofAPhoneNumber_pp.cpp" "/tg/my/leetcode/src/letterCombinationsOfAPhoneNumber/letterCombinationsOfAPhoneNumber.cpp" "/tg/my/leetcode/src/largestRectangleInHistogram/largestRectangleInHistogram.cpp" "/tg/my/leetcode/src/largestRectangleInHistogram/largestRectangleInHistogram_pp.cpp" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_07MAY2015_NotPromoteTempTable.c" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_get_schema_2015April16.c" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_06MAY2015_useTempTable.c" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_build_index.c" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_06MAY2015_new_design.c" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_06MAY2015.c" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_add_row.c" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table.c" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_tmpTable_addRow_worker.c" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_search_index.c"))
+(setq file-name-history '("/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_20Jun2015_tabVARtype.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_21Jun2015_build_status.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_21Jun2015.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_20Jun2015_tabVARtype.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx-playpen/tktg/src/casidx_create_table.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_20Jun2015_tabVARtype.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_20Jun2015_newFlow.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_20Jun2015.c" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_CASIDX124_19June.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_19Jun2015.c" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_CASIDX124_17June.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_17Jun2015.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_search_table_index.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_17May2015.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_09May2015.c" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_CASIDX124.c" "/tg/my/leetcode/src/strStr/strStr.cpp" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_09May2015.c" "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/cc-mode/elseif" "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/cc-mode/if" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_09May2015.c" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_CASIDX124.c" "/home/scnhpl/code_exe/tree_graph/noneRecursiveTraverseBinaryTree.cpp" "/tg/my/leetcode/src/stringToIntegerAtoi/stringToIntegerAtoi.cpp" "/tg/my/leetcode/src/generateParentheses/generateParentheses_pp.cpp" "/tg/my/leetcode/src/wildcardMatching/wildcardMatching.cpp" "/tg/my/leetcode/src/wildcardMatching/wildcardMatching_pp.cpp" "/tg/my/leetcode/src/4Sum/4Sum_pp.cpp" "/tg/my/leetcode/src/3SumClosest/3SumClosest.cpp" "/tg/my/leetcode/src/3SumClosest/3SumClosest_pp.cpp"))
 
 ;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_21Jun2015_build_status.c"
+  "casidx_build_index_21Jun2015_build_status.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  33663
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_20Jun2015_tabVARtype.c"
+  "casidx_build_index_20Jun2015_tabVARtype.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  23880
+  '(23759 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_21Jun2015.c"
+  "casidx_build_index_21Jun2015.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  5784
+  '(5784 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_CASIDX124_19June.c"
+  "casidx_append_index_CASIDX124_19June.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  26512
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx-playpen/tktg/src/casidx_create_table.c"
+  "casidx_create_table.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  12736
+  '(1983 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_20Jun2015_newFlow.c"
+  "casidx_build_index_20Jun2015_newFlow.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  14672
+  '(59615 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_20Jun2015.c"
+  "casidx_build_index_20Jun2015.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  4291
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_19Jun2015.c"
+  "casidx_build_index_19Jun2015.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  8992
+  '(22770 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_17Jun2015.c"
+  "casidx_build_index_17Jun2015.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  52677
+  '(52718 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_get_schema_2015April16.c"
+  "casidx_get_schema_2015April16.c<2><2>"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  30389
+  '(15028 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_CASIDX124_17June.c"
+  "casidx_append_index_CASIDX124_17June.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  7204
+  '(2946 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_17May2015.c"
+  "casidx_build_index_17May2015.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  29069
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_17MAY2015.c"
+  "casidx_append_table_17MAY2015.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  27115
+  '(27962 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_search_table_index.c"
+  "casidx_search_table_index.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  8633
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_09May2015.c"
+  "casidx_build_index_09May2015.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  39933
+  '(7750 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_CASIDX124.c"
+  "casidx_append_index_CASIDX124.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  2316
+  '(31204 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/strStr/strStr_pp.cpp"
+  "strStr_pp.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  539
+  '(1211 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/strStr/strStr.cpp"
+  "strStr.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  889
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/cc-mode/if"
+  "if"
+  'snippet-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode)
+  112
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/cc-mode/elseif"
+  "elseif"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode)
+  125
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/generateParentheses/generateParentheses_pp.cpp"
+  "generateParentheses_pp.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  732
+  '(360 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/stringToIntegerAtoi/stringToIntegerAtoi.cpp"
+  "stringToIntegerAtoi.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  1763
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/wildcardMatching/wildcardMatching_pp.cpp"
+  "wildcardMatching_pp.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  4678
+  '(5171 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/regularExpressionMatching/regularExpressionMatching_pp.cpp"
+  "regularExpressionMatching_pp.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  1768
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/wildcardMatching/wildcardMatching.cpp"
+  "wildcardMatching.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  924
+  '(110 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/4Sum/4Sum_pp.cpp"
+  "4Sum_pp.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  633
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/4Sum/4Sum.cpp"
+  "4Sum.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  601
+  '(1335 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/3SumClosest/3SumClosest.cpp"
+  "3SumClosest.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  2399
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/3SumClosest/3SumClosest_pp.cpp"
+  "3SumClosest_pp.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  1128
+  '(1121 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/validParentheses/validParentheses_pp.cpp"
+  "validParentheses_pp.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  1904
+  '(1800 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/removeNthNodeFromEndOfList/removeNthNodeFromEndOfList_pp.cpp"
+  "removeNthNodeFromEndOfList_pp.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  814
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/longestCommonPrefix/longestCommonPrefix_pp.cpp"
+  "longestCommonPrefix_pp.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  704
+  '(945 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/longestCommonPrefix/longestCommonPrefix.cpp"
+  "longestCommonPrefix.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  838
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/3Sum/3Sum_pp2.cpp"
+  "3Sum_pp2.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  2504
+  '(2393 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/3Sum/3Sum.cpp"
+  "3Sum.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  2747
+  '(1973 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/integerToRoman/integerToRoman.cpp"
+  "integerToRoman.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  801
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/containerWithMostWater/containerWithMostWater.cpp"
+  "containerWithMostWater.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  732
+  '(118 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/containerWithMostWater/containerWithMostWater_pp.cpp"
+  "containerWithMostWater_pp.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  1346
+  '(1126 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/twoSum/twoSum.cpp"
+  "twoSum.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  1096
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/regularExpressionMatching/regularExpressionMatching_pp_dp.cpp"
+  "regularExpressionMatching_pp_dp.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  1366
+  '(1575 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/regularExpressionMatching/regularExpressionMatching_pp_memSearch.cpp"
+  "regularExpressionMatching_pp_memSearch.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  2515
+  '(2515 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/regularExpressionMatching/regularExpressionMatching.cpp"
+  "regularExpressionMatching.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  1237
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_28MAY2015_newRankValues.c"
+  "casidx_append_table_28MAY2015_newRankValues.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  28454
+  '(29105 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_26MAY2015_toReview.c"
+  "casidx_append_table_26MAY2015_toReview.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  35391
+  '(31956 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_build_index.c"
+  "casidx_build_index.c<2><2>"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  41233
+  '(2324 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_search_index.c"
+  "casidx_search_index.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  61247
+  '(3322 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_23MAY2015_NoLock.c"
+  "casidx_append_table_23MAY2015_NoLock.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  3907
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_20MAY2015.c"
+  "casidx_append_table_20MAY2015.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  28396
+  '(37624 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_13MAY2015_round_robin.c"
+  "casidx_append_table_13MAY2015_round_robin.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  17374
+  '(17616 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_14MAY2015.c"
+  "casidx_append_table_14MAY2015.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  2540
+  '(35347 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_21MAY2015_add_lock.c"
+  "casidx_append_table_21MAY2015_add_lock.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  20458
+  '(33160 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/prog/tglib/src/lib/tgstd/dl_tab/dl_tab_func.h"
+  "dl_tab_func.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  1553
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX-appendTable/tkmcidx.tkmsg"
+  "tkmcidx.tkmsg"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode)
+  4105
+  '(3068 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/zigZagConversion/zigZagConversion.cpp"
+  "zigZagConversion.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  1190
+  '(860 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/longestPalindromicSubstring/longestPalindromicSubstring.cpp"
+  "longestPalindromicSubstring.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  1111
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/longestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters_pp.cpp"
+  "longestSubstringWithoutRepeatingCharacters_pp.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  794
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/addTwoNumbers/addTwoNumbers_pp.cpp"
+  "addTwoNumbers_pp.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  2
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/twoSum/twoSum_pp.cpp"
+  "twoSum_pp.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  1046
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/twoSum/#twoSum_pp.cpp#~"
+  "#twoSum_pp.cpp#~"
+  'fundamental-mode
+  '(yas-minor-mode indent-guide-mode)
+  1
+  '(nil nil)
+  t
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/code_exe/round_robin.cpp"
+  "round_robin.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  70
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
 (desktop-create-buffer 206
   "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/cc-mode/while"
   "while"
@@ -37,28 +697,6 @@
   nil
   nil
   '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/cc-mode/if"
-  "if"
-  'snippet-mode
-  '(yas-minor-mode autopair-mode indent-guide-mode)
-  36
-  '(1 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/code_exe/round_robin.cpp"
-  "round_robin.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
-  51
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . utf-8-unix)))
 
 (desktop-create-buffer 206
   "/tg/my/leetcode/src/letterCombinationsOfAPhoneNumber/letterCombinationsofAPhoneNumber_pp.cpp"
@@ -83,34 +721,12 @@
   '((buffer-file-coding-system . undecided-unix)))
 
 (desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-appendTable/tkmcidx.tkmsg"
-  "tkmcidx.tkmsg"
-  'fundamental-mode
-  '(yas-minor-mode autopair-mode indent-guide-mode)
-  4371
-  '(4281 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
   "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_10MAY2015_averageRowNum.c"
   "casidx_append_table_10MAY2015_averageRowNum.c"
   'c-mode
   '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
   18236
   '(13195 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_get_schema_2015April16.c"
-  "casidx_get_schema_2015April16.c<2><2>"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
-  29426
-  '(31605 nil)
   nil
   nil
   '((buffer-file-coding-system . undecided-unix)))
@@ -199,28 +815,6 @@
   '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
   22808
   '(17894 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_search_index.c"
-  "casidx_search_index.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
-  15932
-  '(15217 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_build_index.c"
-  "casidx_build_index.c<2><2>"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
-  7104
-  '(7114 nil)
   nil
   nil
   '((buffer-file-coding-system . undecided-unix)))
@@ -480,7 +1074,7 @@
 
 (desktop-create-buffer 206
   "/home/scnhpl/CAS/CASIDX-createTable/casidx_create_table.c"
-  "casidx_create_table.c"
+  "casidx_create_table.c<2><2>"
   'c-mode
   '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
   3047
@@ -648,7 +1242,359 @@
   "stl_vector.h"
   'c++-mode
   '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
-  10667
+  26570
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/code_exe/arrays_and_strings/twoSum.cpp"
+  "twoSum.cpp<2>"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/medianOfTwoSortedArrays/medianOfTwoSortedArrays.cpp"
+  "medianOfTwoSortedArrays.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/medianOfTwoSortedArrays/medianOfTwoSortedArrays_pp.cpp"
+  "medianOfTwoSortedArrays_pp.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/longestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters.cpp"
+  "longestSubstringWithoutRepeatingCharacters.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/palindromeNumber/palindromeNumber.cpp"
+  "palindromeNumber.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/reverseInteger/reverseInteger_pp.cpp"
+  "reverseInteger_pp.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/reverseInteger/reverseInteger.cpp"
+  "reverseInteger.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/zigZagConversion/zigZagConversion_pp.cpp"
+  "zigZagConversion_pp.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/palindromeNumber/palindromeNumber_pp.cpp"
+  "palindromeNumber_pp.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_27MAY2015_serial_roundRobin_intPtr.c"
+  "casidx_append_table_27MAY2015_serial_roundRobin_intPtr.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_27MAY2015_serial_roundRobin.c"
+  "casidx_append_table_27MAY2015_serial_roundRobin.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/usr/include/c++/4.8/ext/alloc_traits.h"
+  "alloc_traits.h"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  7686
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/usr/include/c++/4.8/bits/allocator.h"
+  "allocator.h"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  3691
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/usr/include/c++/4.8/ext/new_allocator.h"
+  "new_allocator.h"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  2526
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/subsets/subsets.II.cpp"
+  "subsets.II.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/pathSum/pathSum.II.cpp"
+  "pathSum.II.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/minStack/minStack.cpp"
+  "minStack.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/code_exe/string/stringToInteger_atoi.cpp"
+  "stringToInteger_atoi.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/code_exe/string/test.cpp"
+  "test.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/generateParentheses/generateParentheses.cpp"
+  "generateParentheses.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  1036
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/usr/include/c++/4.8/bits/stl_stack.h"
+  "stl_stack.h"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/usr/include/c++/4.8/bits/basic_string.h"
+  "basic_string.h"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
+  89707
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/code_exe/tree_graph/noneRecursiveTraverseBinaryTree.cpp"
+  "noneRecursiveTraverseBinaryTree.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/swapNodesInPairs/swapNodesInPairs_pp.cpp"
+  "swapNodesInPairs_pp.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_CVS.c"
+  "casidx_build_index_CVS.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/divideTwoInt/divideTwoInt.cpp"
+  "divideTwoInt.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/searchInRotatedSortedArray/searchInRotatedSortedArray.cpp"
+  "searchInRotatedSortedArray.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/searchInRotatedSortedArray/searchInRotatedSortedArray.II.cpp"
+  "searchInRotatedSortedArray.II.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/findMinimumInRotatedSortedArray/findMinimumInRotatedSortedArray.II.cpp"
+  "findMinimumInRotatedSortedArray.II.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_CASIDX124_16June.c"
+  "casidx_append_index_CASIDX124_16June.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_16May2015.c"
+  "casidx_build_index_16May2015.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_20Jun2015_open_table.c"
+  "casidx_build_index_20Jun2015_open_table.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  1
   '(nil nil)
   nil
   nil

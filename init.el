@@ -97,9 +97,8 @@
 (global-set-key (kbd "RET") 'newline-and-indent)  ; automatically indent when press RET
 ;; activate whitespace-mode to view all whitespace characters
 (global-set-key (kbd "C-c w") 'whitespace-mode)
-;; show unncessary whitespace that can mess up your diff
-;;To clean up trailing whitespace, you can also run whitespace-cleanup command.
-;;(add-hook 'prog-mode-hook (lambda () (interactive) (setq show-trailing-whitespace 1)))
+;; whitespace-cleanup when startup
+(whitespace-global-modes t)
 ;; use space to indent by default
 (setq-default indent-tabs-mode nil)
 ;; set appearance of a tab that is represented by 4 spaces
