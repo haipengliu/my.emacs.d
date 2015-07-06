@@ -2,7 +2,7 @@
 ;; --------------------------------------------------------------------------
 ;; Desktop File for Emacs
 ;; --------------------------------------------------------------------------
-;; Created Wed Jun 24 23:47:22 2015
+;; Created Fri Jul  3 07:07:23 2015
 ;; Desktop file format version 206
 ;; Emacs version 24.3.1
 
@@ -10,12 +10,144 @@
 (setq desktop-missing-file-warning nil)
 (setq tags-file-name nil)
 (setq tags-table-list nil)
-(setq search-ring '("read_input" "tkcastabDrop" "create_index" "handler" "remove_index" "init_ac" "create_empty" "get_at_dp" "init_ac	" "actx->po" "pool" "act->bu" "thread_idx" "call" "tkmAll" "build_sta"))
+(setq search-ring '("itb" "read_input" "index_path" "path" "index_path" "ds_index" "itb_nam" "index_path" "get_index_dir" "index_path" "read_" "build_thread" "attr_count" "_parse_json" "open_table" "_parse"))
 (setq regexp-search-ring nil)
 (setq register-alist nil)
-(setq file-name-history '("/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_20Jun2015_tabVARtype.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_21Jun2015_build_status.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_21Jun2015.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_20Jun2015_tabVARtype.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx-playpen/tktg/src/casidx_create_table.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_20Jun2015_tabVARtype.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_20Jun2015_newFlow.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_20Jun2015.c" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_CASIDX124_19June.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_19Jun2015.c" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_CASIDX124_17June.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_17Jun2015.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_search_table_index.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_17May2015.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_09May2015.c" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_CASIDX124.c" "/tg/my/leetcode/src/strStr/strStr.cpp" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_09May2015.c" "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/cc-mode/elseif" "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/cc-mode/if" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_09May2015.c" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_CASIDX124.c" "/home/scnhpl/code_exe/tree_graph/noneRecursiveTraverseBinaryTree.cpp" "/tg/my/leetcode/src/stringToIntegerAtoi/stringToIntegerAtoi.cpp" "/tg/my/leetcode/src/generateParentheses/generateParentheses_pp.cpp" "/tg/my/leetcode/src/wildcardMatching/wildcardMatching.cpp" "/tg/my/leetcode/src/wildcardMatching/wildcardMatching_pp.cpp" "/tg/my/leetcode/src/4Sum/4Sum_pp.cpp" "/tg/my/leetcode/src/3SumClosest/3SumClosest.cpp" "/tg/my/leetcode/src/3SumClosest/3SumClosest_pp.cpp"))
+(setq file-name-history '("/home/scnhpl/CAS/tktg-playpen/src/casidx_append_index.c" "/home/scnhpl/CAS/tktg-playpen/src/casidximpl.c" "/home/scnhpl/CAS/tktg-playpen/src/casidx_build_index.c" "/home/scnhpl/ORG-SCNHPL/scnhpl.org" "/root/.emacs.d/init.el" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_27Jun_partition_table.c" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_27Jun.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_25Jun2015_dal.c" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_CASIDX124_25Jun.c" "/root/.emacs.d/init.el" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_CASIDX124_25Jun.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_25Jun2015_dal.c" "/root/.emacs.d/init.el" "/root/emacs.d/init.el" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_CASIDX124_25Jun.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_25Jun2015_dal.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_20Jun2015_tabVARtype.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_21Jun2015_build_status.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_21Jun2015.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_20Jun2015_tabVARtype.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx-playpen/tktg/src/casidx_create_table.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_20Jun2015_tabVARtype.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_20Jun2015_newFlow.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_20Jun2015.c" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_CASIDX124_19June.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_19Jun2015.c" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_CASIDX124_17June.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_17Jun2015.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_search_table_index.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_17May2015.c"))
 
 ;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/tktg-playpen/src/casidx_append_index.c"
+  "casidx_append_index.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  14470
+  '(14467 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/tktg-playpen/src/casidximpl.c"
+  "casidximpl.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  3778
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/tktg-playpen/src/casidx_build_index.c"
+  "casidx_build_index.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  1
+  '(24243 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/ORG-SCNHPL/scnhpl.org"
+  "scnhpl.org"
+  'org-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode)
+  1225
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/root/.emacs.d/init.el"
+  "init.el"
+  'emacs-lisp-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode)
+  4989
+  '(3080 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_27Jun_partition_table.c"
+  "casidx_build_index_27Jun_partition_table.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  14862
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_25Jun2015_dal.c"
+  "casidx_build_index_25Jun2015_dal.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  71063
+  '(70341 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_27Jun.c"
+  "casidx_append_index_27Jun.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  4329
+  '(9548 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_CASIDX124_25Jun.c"
+  "casidx_append_index_CASIDX124_25Jun.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  6208
+  '(6200 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/root/emacs.d/init.el"
+  "init.el<2>"
+  'emacs-lisp-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode)
+  2899
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_search_table_index.c"
+  "casidx_search_table_index.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  30528
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_search_index.c"
+  "casidx_search_index.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  62669
+  '(61247 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
 (desktop-create-buffer 206
   "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_21Jun2015_build_status.c"
   "casidx_build_index_21Jun2015_build_status.c"
@@ -155,17 +287,6 @@
   '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
   27115
   '(27962 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_search_table_index.c"
-  "casidx_search_table_index.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
-  8633
-  '(1 nil)
   nil
   nil
   '((buffer-file-coding-system . undecided-unix)))
@@ -512,17 +633,6 @@
   '((buffer-file-coding-system . undecided-unix)))
 
 (desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_search_index.c"
-  "casidx_search_index.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
-  61247
-  '(3322 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
   "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_23MAY2015_NoLock.c"
   "casidx_append_table_23MAY2015_NoLock.c"
   'c-mode
@@ -821,7 +931,7 @@
 
 (desktop-create-buffer 206
   "/home/scnhpl/CAS/CASIDX-createTable/casidx_build_index.c"
-  "casidx_build_index.c"
+  "casidx_build_index.c<2>"
   'c-mode
   '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode hs-minor-mode)
   12517
@@ -1082,17 +1192,6 @@
   nil
   nil
   '((buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
-
-(desktop-create-buffer 206
-  "/root/.emacs.d/init.el"
-  "init.el"
-  'emacs-lisp-mode
-  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode)
-  3374
-  '(1 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
 
 (desktop-create-buffer 206
   "/root/.emacs.d/elpa/yasnippet-20150415.244/yasnippet.el"
@@ -1592,6 +1691,17 @@
 (desktop-create-buffer 206
   "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_20Jun2015_open_table.c"
   "casidx_build_index_20Jun2015_open_table.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_26Jun2015.c"
+  "casidx_build_index_26Jun2015.c"
   'c-mode
   '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode ggtags-mode)
   1

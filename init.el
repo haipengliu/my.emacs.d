@@ -97,12 +97,12 @@
 (global-set-key (kbd "RET") 'newline-and-indent)  ; automatically indent when press RET
 ;; activate whitespace-mode to view all whitespace characters
 (global-set-key (kbd "C-c w") 'whitespace-mode)
-;; whitespace-cleanup when startup
-(whitespace-global-modes t)
 ;; use space to indent by default
 (setq-default indent-tabs-mode nil)
 ;; set appearance of a tab that is represented by 4 spaces
 (setq-default tab-width 2)
+;; whitespace-cleanup when startup
+(whitespace-global-modes t)
 
 ;; (require 'function-args)
 ;; (fa-config-default)
@@ -167,3 +167,5 @@
 (require 'eldoc)
 (eldoc-mode 1)
 
+;; org mode auto-newline
+(add-hook `org-mode-hook ( lambda () (setq truncate-lines nil)))
