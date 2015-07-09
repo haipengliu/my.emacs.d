@@ -1,0 +1,1 @@
+("/home/local/locker/my/leetcode/" "/home/scnhpl/CAS/tktg-playpen/" "/home/scnhpl/prog/tglib/" "~/.emacs.d/" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx-playpen/" "~/emacs.d/")

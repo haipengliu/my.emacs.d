@@ -33,6 +33,29 @@
 
 (require 'helm)
 (require 'helm-config)
+(helm-mode 1)
+;; helm-projectile
+(projectile-global-mode)
+(setq projectile-completion-system 'helm)
+(helm-projectile-on)
+
+;; helm-semantic-or-imenu
+(setq helm-semantic-fuzzy-match t
+      helm-imenu-fuzzy-match    t)
+
+;; helm-mini
+;;(global-set-key (kbd "C-x b") 'helm-mini)
+(global-unset-key (kbd "C-x b"))
+(global-set-key (kbd "C-x b") 'helm-mini)
+(global-unset-key (kbd "C-x C-f"))
+(global-set-key (kbd "C-x C-f") 'helm-find-files)
+(setq helm-buffers-fuzzy-matching t
+      helm-recentf-fuzzy-match    t)
+(global-set-key (kbd "M-y") 'helm-show-kill-ring)
+(when (executable-find "ack-grep")
+  (setq helm-grep-default-command "ack-grep -Hn --no-group --no-color %e %p %f"
+	helm-grep-default-recurse-command "ack-grep -H --no-group --no-color %e %p %f"))
+
 
 (require 'expand-region)
 (define-key global-map (kbd "C-=") 'er/expand-region)
@@ -95,14 +118,14 @@
 (require 'cc-mode)
 (setq c-default-style "gnu")
 (global-set-key (kbd "RET") 'newline-and-indent)  ; automatically indent when press RET
+;; whitespace-cleanup when startup
+(whitespace-global-modes t)
 ;; activate whitespace-mode to view all whitespace characters
 (global-set-key (kbd "C-c w") 'whitespace-mode)
 ;; use space to indent by default
 (setq-default indent-tabs-mode nil)
 ;; set appearance of a tab that is represented by 4 spaces
 (setq-default tab-width 2)
-;; whitespace-cleanup when startup
-(whitespace-global-modes t)
 
 ;; (require 'function-args)
 ;; (fa-config-default)
@@ -169,3 +192,7 @@
 
 ;; org mode auto-newline
 (add-hook `org-mode-hook ( lambda () (setq truncate-lines nil)))
+
+
+
+

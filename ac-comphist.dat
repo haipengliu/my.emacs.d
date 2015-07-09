@@ -1,1046 +1,1046 @@
-((("tktg_get_last_char_pos_d_string" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("last" .
-   [0 0 0 1])
-  ("json_index" .
-   [1 0 0 0 0 0 0 1 0 0])
-  ("DEFAULT_TEMP_DIR" .
-   [0 0 2 2 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("tktg_fast_strcat_d_string" .
-   [0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("truncate-lines" .
-   [0 0 0 0 0 0 0 0 0 0 1 0 0 0])
-  ("setq" .
-   [1 0 0 0])
-  ("lambda" .
-   [0 0 0 0 0 1])
-  ("auto" .
-   [1 0 0 0])
-  ("CASIDX_BUILD_INDEX_INVALID_INDEX_NAME" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
-  ("_set_fields_from_schema" .
-   [0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("fclose" .
-   [0 0 0 1 0 0])
-  ("tktg_set_at_dl_tab" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
-  ("JSON_STRING" .
-   [0 0 0 0 0 0 3 0 0 0 0])
-  ("json_type" .
-   [3 0 0 0 0 0 0 0 0])
-  ("json_key" .
-   [3 0 0 0 0 0 0 0])
-  ("json_value" .
-   [1 0 0 0 0 0 0 0 2 0])
-  ("tktg_nb_pairs_json_object" .
-   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("field_count" .
-   [1 0 0 0 0 0 0 1 0 0 0])
-  ("nb_fields" .
-   [1 0 0 0 0 0 0 1 0])
-  ("json_schema" .
-   [1 0 0 0 0 0 0 4 0 0 0])
-  ("ds_json" .
-   [7 0 0 0 0 0 0])
-  ("ds_tmp" .
-   [7 0 0 0 1 0])
-  ("tktg_d_string_fgets" .
-   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
-  ("CASIDX_INDEX_NOT_EXIST" .
-   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
-  ("fopen" .
-   [0 0 0 1 0])
-  ("FILE" .
-   [1 0 0 0])
-  ("fp" .
-   [6 0])
-  ("tktg_strcat_d_string" .
-   [0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0])
-  ("schema" .
-   [0 0 0 0 0 1])
-  ("schema_file" .
-   [1 0 0 0 0 0 0 0 4 3 0])
-  ("index" .
-   [3 0 0 0 0])
-  ("index_dir" .
-   [0 0 0 0 0 0 0 1 0])
-  ("casidxH" .
-   [1 0 0 0 0 0 0])
-  ("CASIDX_BUILD_INDEX_ACTION" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("_get_schema_info" .
-   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
-  ("get_schema_in_json" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
-  ("casidx_build_index_21Jun2015_build_status" .
-   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("casidx_build_index_20Jun2015_newFlow.c" .
-   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("instat" .
-   [0 0 0 0 1 0])
-  ("TKSeverityError" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("client" .
-   [0 0 0 0 0 1])
-  ("tklStatusToJnl" .
-   [0 0 0 0 1 0 0 0 0 0 0 0 0 0])
-  ("errorcode" .
-   [1 0 0 0 0 0 0 0 0])
-  ("erro" .
-   [1 0 0 0])
-  ("CASIDX_BUILD_INDEX_NODE_BROKEN" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
-  ("json_root" .
-   [5 0 0 0 0 0 0 0 1])
-  ("CASIDX_BUILD_INDEX_INVALID_JSON" .
-   [1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("TK_GENERIC" .
-   [0 0 0 0 0 1 0 0 0 0])
-  ("tkcasdalH" .
-   [1 0 0 0 0 0 0 0 0])
-  ("N" .
-   [1])
-  ("statuses" .
-   [1 0 0 0 0 0 0 0])
-  ("field_attributes" .
-   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
-  ("id_field_name" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0])
-  ("build_status" .
-   [1 0 0 0 0 0 0 7 2 1 0 0])
-  ("thread_id" .
-   [0 0 0 0 0 0 0 0 1])
-  ("attr" .
-   [1 0 0 0])
-  ("attr_idx" .
-   [3 0 0 0 0 0 1 0])
-  ("field_idx" .
-   [18 0 0 0 0 0 0 0 0])
-  ("setting" .
-   [1 0 0 0 0 0 0])
-  ("g" .
-   [1])
-  ("handler" .
-   [1 0 0 0 0 0 0])
-  ("thread_idx" .
-   [9 0 0 0 0 0 0 0 0 0])
-  ("x1" .
-   [1 0])
-  ("CASIDX_BUILD_INDEX_FAIL_TO_CREATE_TKIDX" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
-  ("tkidx" .
-   [1 0 0 0 0])
-  ("iti" .
-   [2 0 0])
-  ("itb_name" .
-   [1 0 0 1 0 3 1 0])
-  ("tti" .
-   [5 0 0])
-  ("ttb_name" .
-   [2 0 0 0 0 0 0 0])
-  ("tix_handler" .
-   [1 0 0 0 0 0 0 0 0 0 0])
-  ("index_prefix" .
-   [0 0 0 0 0 0 0 0 0 6 1 1])
-  ("uint32_t" .
-   [1 0 0 0 0 0 13 0])
-  ("doc_list" .
-   [0 0 0 0 0 0 1 0])
-  ("default" .
-   [0 0 0 0 0 1 0])
-  ("cas" .
-   [4 0 0])
-  ("switch" .
-   [0 0 0 1 0 0])
-  ("exitE" .
-   [0 0 0 0 1])
-  ("CASIDX_CREATE_NEW_INDEX" .
-   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("CASIDX_CREATE_EMPTY_INDEX" .
-   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("CASIDX_BUILD_INDEX_CREATE_NEW" .
-   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("CASIDX_BUILD_" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 1])
-  ("CASIDX_BUILD_INDEX_CREATE_EMPTY" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0])
-  ("close_two_tables" .
-   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
-  ("close" .
-   [1 0 0 0 0])
-  ("itb_status" .
-   [1 0 0 0 0 0 0 0 0 0])
-  ("ttb_status" .
-   [0 0 1 0 0 0 0 0 0 0])
-  ("open_two_tables" .
-   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
-  ("String" .
-   [0 0 0 0 0 1])
-  ("needle" .
-   [1 0 0 0 0 0])
-  ("haystack" .
-   [1 0 0 0 0 0 0 0])
-  ("-o" .
-   [2 0])
-  ("strStr_pp" .
-   [0 0 2 0 0 0 0 0 0])
-  ("strStr_pp.cpp" .
-   [0 1 0 0 0 0 0 0 0 0 0 0 0])
-  ("strStr/" .
-   [0 0 0 1 0 0 0])
-  ("build_main" .
-   [1 0 0 0 0 0 0 0 0 0])
-  ("mode" .
-   [6 0 0 0])
-  ("nums2" .
-   [3 0 0 0 0])
-  ("from" .
-   [0 0 0 1])
-  ("3Sum_pp2" .
-   [1 1 0 0 0 0 0 0])
-  ("3Sum_pp2.cpp" .
-   [1 1 1 0 0 0 0 0 0 0 0 0])
-  ("3Sum_pp.cpp" .
-   [1 1 4 0 0 0 0 0 0 0 2])
-  ("r" .
-   [1])
-  ("tag" .
-   [3 0 0])
-  ("print_dp" .
-   [1 0 0 0 0 0 0 1])
-  ("cout" .
-   [7 0 0 0])
-  ("dp" .
-   [3 0])
-  ("regularExpressionMatching" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
-  ("int64_t" .
-   [4 0 0 0 0 0 0])
-  ("my" .
-   [1 0])
-  ("got" .
-   [21 0 0])
-  ("isBroken" .
-   [0 0 0 0 1 0 0 0])
-  ("nb_pre_brks" .
-   [0 0 0 0 0 0 1 1 0 0 1])
-  ("Action" .
-   [1 0 0 0 0 0])
-  ("newRanks" .
-   [2 0 0 3 6 0 0 0])
-  ("bcast_version_rank" .
-   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("rank" .
-   [4 0 0 0])
-  ("regularExpressionMatching/" .
-   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("hash_value" .
-   [1 0 0 0 0 0 0 1 0 0])
-  ("TKLockCreateParms" .
-   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
-  ("lockparm" .
+((("tkCASVarListPtr" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 2 0])
+  ("itb_vList" .
+   [0 0 0 0 0 0 2 0 0])
+  ("itb_rlen" .
+   [0 0 0 0 0 1 0 1])
+  ("ttb_rlen" .
    [1 0 0 0 0 1 0 0])
-  ("tkGetHandle" .
-   [0 0 0 0 0 1 0 0 0 0 0])
-  ("tkLockCreate" .
-   [0 0 0 0 1 0 0 0 0 0 0 0])
-  ("tktLockDestroy" .
-   [0 0 0 0 0 0 0 0 0 1 0 0 0 0])
-  ("lock" .
-   [3 0 0 0])
-  ("TKLockh" .
-   [1 0 0 0 0 0 0])
-  ("TKLock" .
-   [0 0 0 0 0 1])
-  ("max_len" .
-   [2 0 0 0 0 2 0])
-  ("st" .
-   [15 0])
-  ("len" .
-   [5 0 0])
-  ("m" .
-   [2])
-  ("add_row_thread" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
-  ("tmp" .
-   [24 0 0])
-  ("doc_str" .
-   [1 0 0 0 0 0 0])
-  ("pi64" .
-   [0 0 1 0])
-  ("tar_ti" .
-   [1 0 0 0 0 0])
-  ("TRUE" .
-   [0 0 0 1])
-  ("CASIDX_APPEND_TABLE_ACTION_INVALID_JSON_PARM" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
-  ("CASIDX_APPEND_TABLE_ACTION_INVALID_PROTOCAL_VERSION" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("tmp_tbl_cookie" .
-   [0 0 0 0 0 0 0 0 0 0 1 0 0 0])
-  ("tar_tbl_cookie" .
-   [0 0 0 0 0 0 0 0 0 0 1 0 0 0])
-  ("root/" .
-   [0 0 1 0 0])
-  ("add" .
-   [2 0 0])
-  ("pwd" .
-   [1 0 0])
-  ("svn" .
-   [3 0 0])
-  ("casidx_append_table_action_ptr" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
-  ("reset_j" .
+  ("INT64_t" .
    [0 0 0 0 0 0 1])
-  ("add_ith_json_to_jth_worker" .
-   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("gc_root_rank" .
-   [1 0 0 0 0 0 0 0 0 0 0 0])
-  ("root_rank" .
-   [1 0 0 0 0 2 0 1 0])
-  ("nb_fails" .
-   [1 0 0 1 0 0 0 0])
-  ("nb_tmp_rows" .
-   [1 0 0 0 1 1 2 0 0 0 0])
-  ("comm" .
-   [7 0 0 0])
-  ("gc_num_ranks" .
-   [0 0 0 0 0 0 1 0 0 0 0 0])
-  ("numBroken" .
-   [0 0 0 0 0 1 2 0 0])
-  ("nb_ranks" .
-   [3 0 0 0 3 0 0 0])
-  ("CASIDX_APPEND_TABLE_ACTION_FAILED_TO_ADD_ROW" .
-   [0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("nb_fail" .
-   [2 0 0 0 0 0 0])
-  ("nb_workers" .
-   [1 0 0 0 0 1 2 0 0 1])
-  ("nb_rows_t" .
-   [0 0 0 0 0 0 0 0 1])
-  ("nb" .
-   [4 0])
-  ("nb_rows_tmp" .
-   [1 0 0 0 0 0 0 0 0 0 0])
-  ("i" .
-   [5])
-  ("n" .
-   [4])
-  ("j" .
-   [2])
-  ("together" .
-   [1 0 0 0 0 0 0 0])
-  ("append" .
-   [1 0 0 0 0 0])
-  ("write" .
-   [1 0 0 0 0])
-  ("run" .
-   [1 0 0])
-  ("nodes" .
-   [1 0 0 0 0])
-  ("all" .
-   [2 0 0])
-  ("a" .
-   [5])
-  ("then" .
-   [1 0 0 0])
-  ("to" .
-   [1 0])
-  ("one" .
-   [1 0 0])
-  ("sends" .
-   [1 0 0 0 0])
-  ("send" .
-   [1 0 0 0])
-  ("parsing" .
-   [1 0 0 0 0 0 0])
-  ("each" .
-   [1 0 0 0])
-  ("After" .
-   [2 0 0 0 0])
-  ("S" .
-   [1])
-  ("parse" .
-   [1 0 0 0 0])
-  ("controller" .
-   [1 0 0 0 0 0 0 0 0 0])
-  ("version" .
-   [1 0 0 0 1 0 0])
-  ("In" .
-   [1 0])
-  ("q1" .
-   [1 0])
-  ("q2" .
-   [1 0])
-  ("p2" .
-   [2 0])
-  ("p1" .
-   [1 0])
-  ("phone" .
-   [1 0 0 0 0])
-  ("TKVAR_ROOTTYPE_NUMERIC" .
-   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("tktg_strcpy_d_string" .
-   [0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0])
-  ("rytpe" .
-   [1 0 0 0 0])
-  ("TKVAR_ROOTTYPE_CHAR" .
-   [0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("tktg_trim_d_string" .
-   [0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0])
-  ("status_object" .
-   [0 0 0 0 0 0 0 1 0 0 0 0 1])
-  ("d" .
-   [2])
-  ("ds_value" .
-   [5 0 0 0 0 1 2 1])
-  ("ds" .
-   [3 0])
-  ("f" .
-   [4])
-  ("btype" .
-   [2 0 0 1 1])
-  ("rtype" .
-   [3 0 1 2 0])
-  ("data_num" .
-   [1 0 0 0 0 0 0 0])
-  ("TKCASTAB_FLAG_REPLACE" .
-   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
-  ("flags" .
-   [1 0 0 0 0])
-  ("tkcastabTablePtr" .
-   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
-  ("tbl" .
-   [1 0 0])
-  ("I" .
-   [1])
-  ("tkcastabAddRow" .
-   [0 0 0 0 0 0 0 0 0 2 1 0 0 0])
-  ("tktg_get_json_string" .
-   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
-  ("json_var_value" .
-   [1 0 0 0 0 0 0 0 0 0 0 2 0 0])
-  ("UTF8_BLEN" .
-   [1 0 0 0 0 1 2 0 0])
-  ("byteLength" .
-   [0 0 0 0 0 1 0 0 0 0])
-  ("UTF8TEXT" .
-   [0 0 0 1 0 0 0 0])
-  ("loc" .
-   [2 0 0])
-  ("value" .
-   [5 0 0 0 0])
-  ("Offset" .
-   [0 0 0 0 0 1])
-  ("name" .
-   [6 0 0 0])
-  ("json_var_name" .
-   [0 0 0 0 0 0 0 0 2 0 0 0 0])
-  ("tktg_get_pair_json_object" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0])
-  ("t" .
-   [3])
-  ("tktg_get_json_" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
-  ("json_row_doc" .
-   [3 0 0 0 0 0 0 0 0 0 0 0])
-  ("json_data" .
-   [2 0 0 0 0 0 0 0 0])
-  ("tktg_get_elt_json_array" .
-   [0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0])
-  ("json_row" .
-   [3 0 0 0 0 0 0 0])
-  ("tkcastabVarDescPtr" .
-   [0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0])
-  ("vdp" .
-   [9 0 0])
-  ("offset" .
-   [4 0 0 2 0 2])
-  ("data" .
-   [6 0 0 0])
-  ("next" .
-   [1 0 0 0])
-  ("var" .
-   [2 0 0])
-  ("tkv" .
-   [16 0 0])
-  ("casidx_append_table" .
-   [0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("this" .
-   [3 0 0 0])
-  ("like" .
-   [1 0 0 0])
-  ("the" .
-   [3 0 0])
-  ("json_number" .
-   [1 0 0 0 0 0 0 0 0 0 0])
-  ("JSON_NUMBER_H" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 1])
-  ("JSON_OBJECT" .
-   [0 0 0 0 0 1 4 2 0 0 0])
-  ("tktg_get_json_object" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 0 0 2])
-  ("nb_docs" .
+  ("ttb_vList" .
+   [1 0 0 0 0 0 2 0 0])
+  ("rawDataLen" .
+   [0 0 0 1 1 1 0 0 0 0])
+  ("intkv" .
+   [6 0 0 0 0])
+  ("varID" .
+   [4 0 0 0 0])
+  ("nameLen" .
    [3 0 0 0 0 0 0])
-  ("atb_act" .
-   [14 0 1 2 1 2 22])
-  ("uint64_t" .
-   [3 0 0 0 2 1 2 11])
-  ("nil" .
-   [3 0 0])
-  ("newline" .
-   [2 0 0 0 0 0 0])
-  ("Finish" .
-   [9 0 1 1 5 8])
-  ("tktg" .
-   [58 0 0 0])
-  ("act" .
-   [47 0 0])
-  ("status" .
-   [49 0 0 0 0 12])
-  ("TKStatus" .
-   [0 0 0 1 1 0 0 7])
-  ("actx" .
-   [35 0 0 1])
-  ("tkcasaActionContextPtr" .
-   [0 0 0 0 0 0 0 8 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
-  ("DL_TAB" .
-   [2 0 3 0 0 0])
-  ("D_STRINGS" .
-   [4 0 0 0 0 0 0 0 0])
-  ("D_STRING" .
-   [2 0 0 0 0 0 0 7])
-  ("CASIDX_CREATE_TABLE_RESULT" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
-  ("casidx_create_table" .
-   [2 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
-  ("CASIDX_CREATE_TABLE" .
-   [0 0 0 0 0 0 1 1 0 0 0 1 0 0 0 0 0 0 1])
-  ("typedef" .
-   [0 0 0 0 0 0 2])
-  ("struct" .
-   [0 1 0 0 0 3])
-  ("pop_back" .
-   [0 0 0 1 0 0 0 0])
-  ("find" .
-   [3 0 0 0])
-  ("vector" .
-   [14 0 0 0 1 10])
-  ("continue" .
-   [0 0 0 0 0 0 0 1])
-  ("newWord" .
-   [1 0 0 0 0 0 1])
-  ("count" .
-   [3 0 0 0 0])
-  ("load-path" .
-   [0 0 0 0 0 0 0 0 1])
-  ("my:flymake-google-init" .
-   [0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("flymake-google-cpplint" .
-   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
-  ("achead:include-directories" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
-  ("achead:ac-prefix" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
-  ("require" .
-   [0 0 0 0 0 0 5])
-  ("yasnippet" .
-   [0 0 0 1 0 0 0 0 0])
-  ("yas-global-mode" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
-  ("defun" .
-   [1 0 0 0 1])
-  ("autoload" .
-   [0 0 0 0 0 1 0 0])
-  ("auto-complete-c-headers" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
-  ("add-to-list" .
-   [0 0 0 0 0 0 0 0 0 0 3])
-  ("ac-sources" .
-   [0 0 0 0 0 0 0 0 0 2])
-  ("ac-source-css-property" .
-   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
-  ("add-hook" .
-   [2 0 0 0 0 0 0 3])
-  ("c++-mode-hook" .
-   [0 0 0 0 0 0 0 0 0 0 0 1 0])
-  ("my:ac-c-header-init" .
-   [0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("c-mode-hook" .
-   [0 0 0 0 0 0 0 0 0 0 3])
-  ("define-key" .
-   [0 0 0 0 0 0 0 0 0 2])
-  ("global-map" .
-   [0 0 0 0 0 0 0 0 0 2])
-  ("kbd" .
-   [2 0 0])
-  ("iedit-mode" .
-   [1 0 0 0 0 0 0 0 0 0])
-  ("goto-line" .
-   [0 0 0 0 0 0 1 0 0])
-  ("init-themes" .
-   [0 0 0 0 0 0 0 0 0 1 0])
-  ("./" .
-   [0 2])
-  ("git" .
-   [3 0 0])
-  ("master" .
-   [2 0 0 0 0 0])
-  ("ls" .
-   [48 0])
-  ("home/" .
-   [0 4 0 0 1])
-  ("tg/" .
-   [0 0 2])
-  ("my/" .
-   [0 1 2])
-  ("src/" .
-   [0 0 2 1])
-  ("wordLadder/" .
-   [0 0 0 0 0 1 0 0 0 0 0])
-  ("ladders" .
-   [4 0 0 0 0 0 1])
-  ("push_back" .
-   [0 0 2 3 10 1 0 0 0])
-  ("ladder" .
-   [6 0 1 0 0 5])
-  ("end" .
-   [20 0 0])
-  ("map" .
-   [5 0 0])
-  ("string" .
-   [37 0 0 0 0 0])
-  ("unordered_set" .
-   [0 0 1 0 6 0 0 3 0 0 0 0 1])
-  ("parents" .
-   [2 0 0 1 5 0 3])
-  ("buildTree" .
-   [1 0 0 0 0 0 1 0 0])
-  ("start" .
-   [19 0 0 0 1])
-  ("dict" .
-   [2 0 0 0])
-  ("size" .
-   [28 0 0 2])
-  ("generatePath" .
-   [0 0 3 0 0 0 0 0 0 0 0 0])
-  ("clear" .
-   [3 0 0 0 0])
-  ("previousLevel" .
-   [0 0 0 2 2 0 0 0 0 0 0 0 0])
-  ("currentLevel" .
-   [0 0 1 5 1 0 0 0 0 0 0 0])
-  ("level" .
+  ("UTF8ByteLength" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("U" .
+   [1])
+  ("ds_name" .
+   [6 0 0 0 0 1 0])
+  ("tkCASVarPtr" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("vars" .
+   [1 0 0 0])
+  ("tktg_set_at_d_strings" .
+   [0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 0 0 0])
+  ("numvars" .
+   [1 0 0 0 0 0 0])
+  ("var_idx" .
+   [6 0 0 0 0 0 0])
+  ("itb_varnames" .
+   [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("ttb_varnames" .
+   [0 0 0 0 0 0 0 0 2 0 0 0])
+  ("tktg_tg_rmdir" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("itb_vars" .
+   [0 0 0 0 0 0 1 1])
+  ("ttb_vars" .
+   [1 0 0 0 0 0 0 1])
+  ("whitespace-global-modes" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("fail" .
+   [0 0 0 1])
+  ("successful" .
+   [0 0 0 0 1 0 0 0 0 0])
+  ("total" .
    [1 0 0 0 0])
-  ("levels" .
+  ("C" .
+   [1])
+  ("str_casidx_build_status" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0])
+  ("pool" .
+   [1 0 0 0])
+  ("builds" .
+   [0 0 0 0 0 2])
+  ("CASIDX_BUILD_STATUS" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0])
+  ("casidx_append_index_CASIDX124_17June" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("tktg_free_json_o" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("aix_act" .
+   [6 0 0 7 1 2 2])
+  ("lat" .
+   [1 0 0])
+  ("stauts" .
+   [1 0 0 0 0 0])
+  ("casidx_build_action_ptr" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("CASIDX123-buildIndex/" .
+   [0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("noneRecursiveTraverseBinaryTree" .
+   [1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("noneRecursiveTraverseBinaryTree.cpp" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("generateParentheses_pp" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("generateParentheses" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("printf" .
+   [0 0 0 0 0 1])
+  ("print_matrix" .
+   [0 0 0 0 0 0 0 2 0 0 0 0])
+  ("pop" .
+   [1 0 0])
+  ("top" .
+   [1 0 0])
+  ("erase" .
+   [1 0 0 0 0])
+  ("e" .
+   [1])
+  ("push" .
+   [2 0 0 0])
+  ("rightP" .
+   [6 0 0 0 0 0])
+  ("leftP" .
+   [8 0 0 0 0])
+  ("stack" .
+   [2 0 0 0 0])
+  ("include" .
+   [0 0 0 0 0 0 1])
+  ("wildcardMatching_pp" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("wildcardMatching_pp.cpp" .
+   [0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("wildcardMatching" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("o" .
+   [1])
+  ("isMatch" .
+   [2 0 0 0 0 0 0])
+  ("is" .
+   [1 0])
+  ("num" .
+   [1 0 0])
+  ("l" .
+   [2])
+  ("3Sum.cpp" .
+   [1 0 0 0 0 1 0 0])
+  ("g++" .
+   [1 0 1])
+  ("-rf" .
+   [1 0 0])
+  ("rm" .
+   [1 0])
+  ("3Sum_pp.cpp~" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("std" .
+   [3 0 0])
+  ("namespace" .
+   [0 0 0 0 0 0 0 0 1])
+  ("print_rst" .
+   [1 0 0 0 0 0 0 0 0])
+  ("p" .
+   [1])
+  ("main" .
+   [3 0 0 0])
+  ("v" .
+   [2])
+  ("dfs" .
+   [13 0 0])
+  ("mid" .
+   [6 0 0])
+  ("binarySearch" .
+   [1 0 0 0 1 0 0 0 0 0 0 0])
+  ("b" .
+   [1])
+  ("right" .
+   [18 0 0 0 1])
+  ("left" .
+   [17 0 0 0])
+  ("sort" .
+   [1 0 0 0])
+  ("nums" .
+   [31 0 0 0])
+  ("threeSum" .
+   [1 0 0 0 0 0 0 0])
+  ("isSame" .
+   [5 0 0 0 0 0])
+  ("fill_dp" .
+   [1 0 0 0 0 0 0])
+  ("longestPalindromicSubstring/" .
+   [0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("casidx_append_table_17MAY2015.c" .
+   [0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("setup_threads" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("rst" .
+   [31 0 0])
+  ("else" .
+   [0 0 1 0])
+  ("target" .
+   [12 0 0 0 0 0])
+  ("endl" .
+   [5 0 0 1])
+  ("numbers" .
+   [3 0 0 0 0 0 0])
+  ("hash_table" .
+   [0 0 0 0 1 3 0 0 0 0])
+  ("TKMemSize" .
+   [0 0 0 0 0 0 1 0 0])
+  ("RecLen" .
+   [1 0 0 1 1 2])
+  ("my_rank" .
+   [1 0 0 0 1 0 0])
+  ("myRank" .
+   [0 0 0 0 0 1])
+  ("gc_commH" .
+   [1 0 0 0 0 0 0 0])
+  ("gc_recv" .
+   [0 0 0 0 0 2 0])
+  ("gc_send" .
+   [1 0 0 0 0 0 0])
+  ("tmp_tbl_name" .
+   [0 0 0 1 0 0 0 0 1 0 0 0])
+  ("des_tbl_name" .
+   [0 0 1 2 2 0 0 0 0 0 0 0])
+  ("open" .
+   [2 0 1 0])
+  ("casidx_append_table_07MAY2015_NotPromoteTempTable.c" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("scnhpl/" .
+   [0 0 3 1 0 0 0])
+  ("isalpha" .
+   [0 0 0 0 1 0 0])
+  ("wordLen" .
+   [2 0 0 0 0 1 0])
+  ("cnt" .
+   [7 0 0])
+  ("ps" .
+   [1 0])
+  ("casidx_append_table_use_tmpTable.c" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("tkcastabFileDesc" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("fdt" .
+   [5 0 0])
+  ("CASIDX-appendTable/" .
+   [2 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("CAS/" .
+   [0 1 2 1])
+  ("scnhpl" .
+   [0 0 0 1 0 0])
+  ("local" .
+   [0 0 1 0 1])
+  ("largestRectangleInHistogram.cpp" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("exit" .
+   [27 0 0 0])
+  ("vList" .
+   [4 0 0 1 0])
+  ("CASIDX_APPEND_TABLE_" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("TK_OK" .
+   [14 0 0 0 1])
+  ("IF" .
+   [1 0])
+  ("tktg_get_buff_d_string" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 4 6 0 0 0 0 0 0 0 0])
+  ("temp" .
+   [1 0 0 1])
+  ("temp_table_name" .
+   [0 0 0 0 0 2 0 0 0 0 1 4 0 0 0])
+  ("create_temp_table" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("create" .
+   [1 0 0 0 0 0])
+  ("CASIDX_APPEND_TABLE_ACTION_FAILED_OPEN_TABLE" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("tblType" .
+   [1 0 0 0 0 0 0])
+  ("oneRow" .
+   [2 0 0 1 6 4])
+  ("TK_ZB" .
+   [2 0 0 0 1])
+  ("setup_table" .
+   [0 0 0 0 0 1 0 0 1 0 0])
+  ("set" .
+   [6 0 0])
+  ("ti" .
+   [1 0])
+  ("reclen" .
+   [1 0 0 0 2 0])
+  ("tkcastabInfoPtr" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("tkcasa" .
+   [2 0 0 0 0 0])
+  ("tkcasaTableInfoPtr" .
+   [4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("cookie" .
+   [3 0 0 0 1 0])
+  ("tabInstPtr" .
+   [0 0 0 0 2 0 0 1 0 0])
+  ("tkcastab" .
+   [5 0 0 0 0 0 0 0])
+  ("casidx_append_table.c" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("free_append_table_action" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("tktg_rm_d_strings" .
+   [0 0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0])
+  ("tktg_free_d_string" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 1 2 0 1 0 0])
+  ("doc_rows" .
+   [1 0 0 0 0 0 0 0])
+  ("doc" .
+   [4 0 0])
+  ("tkmRelease" .
+   [0 0 0 0 1 1 0 0 0 0])
+  ("atb_" .
+   [0 0 0 1])
+  ("TKM_ZERO" .
+   [0 0 0 4 1 0 0 0])
+  ("casidx_append_table_status" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("action_pool" .
+   [3 0 0 0 0 0 0 0 1 1 2])
+  ("tkmAlloc" .
+   [0 0 0 0 4 1 0 1])
+  ("atb_status" .
+   [0 0 0 0 0 0 0 3 0 0])
+  ("s" .
+   [8])
+  ("yasnippet-20150415.244/" .
+   [0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("c" .
+   [5])
+  ("tkcasaGetValString" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("tkcasaGetValList" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("TK_NOMEM" .
+   [0 0 0 0 2 12 3 2])
+  ("field_isfacts" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("field_isindexs" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("tktg_init_dl_tab" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("field" .
+   [1 0 0 0 4])
+  ("tktg_init_d_strings" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("table_name" .
+   [1 0 0 0 0 2 1 0 0 0])
+  ("table" .
+   [2 0 0 0 0])
+  ("tktg_init_d_string" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 2 5 0 0 0 3])
+  ("JSON_O" .
+   [11 0 0 0 0 0])
+  ("JSON" .
+   [5 0 0 0])
+  ("query" .
+   [2 0 0 0 0])
+  ("unsigned" .
+   [0 0 0 1 0 0 0 17])
+  ("ds_err" .
+   [7 0 0 0 1 1])
+  ("tktg_parse_string_json_o" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("json" .
+   [10 0 0 0])
+  ("iskeys" .
+   [2 0 0 0 0 0])
+  ("isfacet" .
+   [0 0 0 0 0 0 1])
+  ("isindexs" .
+   [1 0 0 0 0 0 0 0])
+  ("field_types" .
+   [5 0 0 0 0 0 0 0 0 0 0])
+  ("field_names" .
+   [3 0 0 0 0 0 0 0 0 0 0])
+  ("newline-and-indent" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("go-mode" .
+   [0 0 0 1 0 0 0])
+  ("java-mode" .
+   [0 0 0 0 1 0 0 0 0])
+  ("cc-mode" .
+   [0 0 1 0 0 0 0])
+  ("cc-mode/" .
+   [0 0 1 0 0 0 0 3])
+  ("snippets" .
+   [0 0 1 2 0 0 0 1])
+  ("../" .
+   [0 0 15])
+  ("while" .
+   [0 0 1 0 0])
+  ("yasnippet-readme" .
+   [0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0])
+  ("yasnippet-readme.txt" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("el" .
+   [1 0])
+  ("elpa/" .
+   [2 3 1 0 2])
+  (".emacs.d/" .
+   [0 0 0 0 0 0 2 1 3])
+  (".ssh/" .
+   [1 0 0 0 0])
+  ("eldoc-mode" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("eldoc-minor-mode-string" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("readEnd" .
+   [0 0 0 0 1 0 0])
+  ("empty" .
+   [1 0 0 3 0])
+  ("in" .
+   [51 0])
+  ("begin" .
+   [2 0 0 0 1])
+  ("it" .
+   [9 0])
+  ("nextLevel" .
+   [0 0 0 2 1 0 0 0 1])
+  ("reachEnd" .
+   [0 0 0 0 1 1 0 0])
+  ("insert" .
    [3 0 0 0 0 0])
   ("NULL" .
    [82 0 0 0])
-  ("insert" .
+  ("levels" .
    [3 0 0 0 0 0])
-  ("reachEnd" .
-   [0 0 0 0 1 1 0 0])
-  ("nextLevel" .
-   [0 0 0 2 1 0 0 0 1])
-  ("it" .
-   [9 0])
-  ("begin" .
-   [2 0 0 0 1])
-  ("in" .
-   [51 0])
-  ("empty" .
-   [1 0 0 3 0])
-  ("readEnd" .
-   [0 0 0 0 1 0 0])
-  ("eldoc-minor-mode-string" .
-   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("eldoc-mode" .
-   [1 0 0 0 0 0 0 0 0 0])
-  (".ssh/" .
+  ("level" .
    [1 0 0 0 0])
-  (".emacs.d/" .
-   [0 0 0 0 0 0 2 1 3])
-  ("elpa/" .
-   [2 3 1 0 2])
-  ("el" .
-   [1 0])
-  ("yasnippet-readme.txt" .
-   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("yasnippet-readme" .
-   [0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0])
-  ("while" .
-   [0 0 1 0 0])
-  ("../" .
-   [0 0 15])
-  ("snippets" .
-   [0 0 1 2 0 0 0 1])
-  ("cc-mode/" .
-   [0 0 1 0 0 0 0 3])
-  ("cc-mode" .
-   [0 0 1 0 0 0 0])
-  ("java-mode" .
-   [0 0 0 0 1 0 0 0 0])
-  ("go-mode" .
-   [0 0 0 1 0 0 0])
-  ("newline-and-indent" .
-   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
-  ("field_names" .
-   [3 0 0 0 0 0 0 0 0 0 0])
-  ("field_types" .
-   [5 0 0 0 0 0 0 0 0 0 0])
-  ("isindexs" .
-   [1 0 0 0 0 0 0 0])
-  ("isfacet" .
-   [0 0 0 0 0 0 1])
-  ("iskeys" .
-   [2 0 0 0 0 0])
-  ("json" .
-   [10 0 0 0])
-  ("tktg_parse_string_json_o" .
-   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
-  ("ds_err" .
-   [7 0 0 0 1 1])
-  ("unsigned" .
-   [0 0 0 1 0 0 0 17])
-  ("query" .
-   [2 0 0 0 0])
-  ("JSON" .
-   [5 0 0 0])
-  ("JSON_O" .
-   [11 0 0 0 0 0])
-  ("tktg_init_d_string" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 2 5 0 0 0 3])
-  ("table" .
-   [2 0 0 0 0])
-  ("table_name" .
-   [1 0 0 0 0 2 1 0 0 0])
-  ("tktg_init_d_strings" .
-   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("field" .
-   [1 0 0 0 4])
-  ("tktg_init_dl_tab" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
-  ("field_isindexs" .
-   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("field_isfacts" .
-   [0 0 0 0 0 0 0 0 0 0 0 1 0])
-  ("TK_NOMEM" .
-   [0 0 0 0 2 12 3 2])
-  ("tkcasaGetValList" .
-   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
-  ("tkcasaGetValString" .
-   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
-  ("c" .
-   [5])
-  ("yasnippet-20150415.244/" .
-   [0 0 0 3 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("s" .
-   [8])
-  ("atb_status" .
-   [0 0 0 0 0 0 0 3 0 0])
-  ("tkmAlloc" .
-   [0 0 0 0 4 1 0 1])
-  ("action_pool" .
-   [3 0 0 0 0 0 0 0 1 1 2])
-  ("casidx_append_table_status" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
-  ("TKM_ZERO" .
-   [0 0 0 4 1 0 0 0])
-  ("atb_" .
-   [0 0 0 1])
-  ("tkmRelease" .
-   [0 0 0 0 1 1 0 0 0 0])
-  ("doc" .
-   [4 0 0])
-  ("doc_rows" .
-   [1 0 0 0 0 0 0 0])
-  ("tktg_free_d_string" .
-   [0 0 0 0 0 0 0 0 0 0 0 1 1 2 0 1 0 0])
-  ("tktg_rm_d_strings" .
-   [0 0 0 0 0 0 0 1 0 1 0 1 0 0 0 0 0])
-  ("free_append_table_action" .
-   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("casidx_append_table.c" .
-   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("tkcastab" .
-   [5 0 0 0 0 0 0 0])
-  ("tabInstPtr" .
-   [0 0 0 0 2 0 0 1 0 0])
-  ("cookie" .
-   [3 0 0 0 1 0])
-  ("tkcasaTableInfoPtr" .
-   [4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("tkcasa" .
-   [2 0 0 0 0 0])
-  ("tkcastabInfoPtr" .
-   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("reclen" .
-   [1 0 0 0 2 0])
-  ("ti" .
-   [1 0])
-  ("set" .
-   [6 0 0])
-  ("setup_table" .
-   [0 0 0 0 0 1 0 0 1 0 0])
-  ("TK_ZB" .
-   [2 0 0 0 1])
-  ("oneRow" .
-   [2 0 0 1 6 4])
-  ("tblType" .
-   [1 0 0 0 0 0 0])
-  ("CASIDX_APPEND_TABLE_ACTION_FAILED_OPEN_TABLE" .
-   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("create" .
-   [1 0 0 0 0 0])
-  ("create_temp_table" .
-   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
-  ("temp_table_name" .
-   [0 0 0 0 0 2 0 0 0 0 1 4 0 0 0])
-  ("temp" .
-   [1 0 0 1])
-  ("tktg_get_buff_d_string" .
-   [0 0 0 0 0 0 0 0 0 0 0 1 4 6 0 0 0 0 0 0 0 0])
-  ("IF" .
-   [1 0])
-  ("TK_OK" .
-   [14 0 0 0 1])
-  ("CASIDX_APPEND_TABLE_" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
-  ("vList" .
-   [4 0 0 1 0])
-  ("exit" .
-   [27 0 0 0])
-  ("largestRectangleInHistogram.cpp" .
-   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("local" .
-   [0 0 1 0 1])
-  ("scnhpl" .
-   [0 0 0 1 0 0])
-  ("CAS/" .
-   [0 1 2 1])
-  ("CASIDX-appendTable/" .
-   [2 0 1 1 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
-  ("fdt" .
-   [5 0 0])
-  ("tkcastabFileDesc" .
-   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
-  ("casidx_append_table_use_tmpTable.c" .
-   [0 0 0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("ps" .
-   [1 0])
-  ("cnt" .
-   [7 0 0])
-  ("wordLen" .
-   [2 0 0 0 0 1 0])
-  ("isalpha" .
-   [0 0 0 0 1 0 0])
-  ("scnhpl/" .
-   [0 0 3 1 0 0 0])
-  ("casidx_append_table_07MAY2015_NotPromoteTempTable.c" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("open" .
-   [2 0 1 0])
-  ("des_tbl_name" .
-   [0 0 1 2 2 0 0 0 0 0 0 0])
-  ("tmp_tbl_name" .
-   [0 0 0 1 0 0 0 0 1 0 0 0])
-  ("gc_send" .
-   [1 0 0 0 0 0 0])
-  ("gc_recv" .
-   [0 0 0 0 0 2 0])
-  ("gc_commH" .
-   [1 0 0 0 0 0 0 0])
-  ("myRank" .
-   [0 0 0 0 0 1])
-  ("my_rank" .
-   [1 0 0 0 1 0 0])
-  ("RecLen" .
-   [1 0 0 1 1 2])
-  ("TKMemSize" .
-   [0 0 0 0 0 0 1 0 0])
-  ("hash_table" .
-   [0 0 0 0 1 3 0 0 0 0])
-  ("numbers" .
-   [3 0 0 0 0 0 0])
-  ("endl" .
-   [5 0 0 1])
-  ("target" .
-   [12 0 0 0 0 0])
-  ("else" .
-   [0 0 1 0])
-  ("rst" .
-   [31 0 0])
-  ("setup_threads" .
-   [0 0 0 0 0 0 0 0 0 0 1 0 0])
-  ("casidx_append_table_17MAY2015.c" .
-   [0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("longestPalindromicSubstring/" .
-   [0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("fill_dp" .
-   [1 0 0 0 0 0 0])
-  ("isSame" .
-   [5 0 0 0 0 0])
-  ("threeSum" .
-   [1 0 0 0 0 0 0 0])
-  ("nums" .
-   [31 0 0 0])
-  ("sort" .
-   [1 0 0 0])
-  ("left" .
-   [17 0 0 0])
-  ("right" .
-   [18 0 0 0 1])
-  ("b" .
-   [1])
-  ("binarySearch" .
-   [1 0 0 0 1 0 0 0 0 0 0 0])
-  ("mid" .
-   [6 0 0])
-  ("dfs" .
-   [13 0 0])
-  ("v" .
-   [2])
-  ("main" .
-   [3 0 0 0])
-  ("p" .
-   [1])
-  ("print_rst" .
-   [1 0 0 0 0 0 0 0 0])
-  ("namespace" .
-   [0 0 0 0 0 0 0 0 1])
-  ("std" .
-   [3 0 0])
-  ("3Sum_pp.cpp~" .
-   [1 0 0 0 0 0 0 0 0 0 0 0])
-  ("rm" .
-   [1 0])
-  ("-rf" .
-   [1 0 0])
-  ("g++" .
-   [1 0 1])
-  ("3Sum.cpp" .
-   [1 0 0 0 0 1 0 0])
-  ("l" .
-   [2])
-  ("num" .
-   [1 0 0])
-  ("is" .
-   [1 0])
-  ("isMatch" .
-   [2 0 0 0 0 0 0])
-  ("o" .
-   [1])
-  ("wildcardMatching" .
-   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("wildcardMatching_pp.cpp" .
-   [0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("wildcardMatching_pp" .
-   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0])
-  ("include" .
-   [0 0 0 0 0 0 1])
-  ("stack" .
-   [2 0 0 0 0])
-  ("leftP" .
-   [8 0 0 0 0])
-  ("rightP" .
-   [6 0 0 0 0 0])
-  ("push" .
+  ("currentLevel" .
+   [0 0 1 5 1 0 0 0 0 0 0 0])
+  ("previousLevel" .
+   [0 0 0 2 2 0 0 0 0 0 0 0 0])
+  ("clear" .
+   [3 0 0 0 0])
+  ("generatePath" .
+   [0 0 3 0 0 0 0 0 0 0 0 0])
+  ("size" .
+   [28 0 0 2])
+  ("dict" .
    [2 0 0 0])
-  ("e" .
-   [1])
-  ("erase" .
-   [1 0 0 0 0])
-  ("top" .
-   [1 0 0])
-  ("pop" .
-   [1 0 0])
-  ("print_matrix" .
-   [0 0 0 0 0 0 0 2 0 0 0 0])
-  ("printf" .
-   [0 0 0 0 0 1])
-  ("generateParentheses" .
-   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("generateParentheses_pp" .
-   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("noneRecursiveTraverseBinaryTree.cpp" .
-   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("noneRecursiveTraverseBinaryTree" .
-   [1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("CASIDX123-buildIndex/" .
-   [0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0])
-  ("casidx_build_action_ptr" .
-   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("stauts" .
-   [1 0 0 0 0 0])
-  ("lat" .
-   [1 0 0])
-  ("aix_act" .
-   [6 0 0 7 1 2 2])
-  ("tktg_free_json_o" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
-  ("casidx_append_index_CASIDX124_17June" .
-   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
-  ("CASIDX_BUILD_STATUS" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 0 0])
-  ("builds" .
-   [0 0 0 0 0 2])
-  ("pool" .
-   [1 0 0 0])
-  ("str_casidx_build_status" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0])
-  ("C" .
-   [1])
-  ("total" .
-   [1 0 0 0 0])
-  ("successful" .
-   [0 0 0 0 1 0 0 0 0 0])
-  ("fail" .
-   [0 0 0 1])
-  ("whitespace-global-modes" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
-  ("ttb_vars" .
-   [1 0 0 0 0 0 0 1])
-  ("itb_vars" .
-   [0 0 0 0 0 0 1 1])
-  ("tktg_tg_rmdir" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0])
-  ("ttb_varnames" .
-   [0 0 0 0 0 0 0 0 2 0 0 0])
-  ("itb_varnames" .
-   [0 0 0 0 0 0 0 0 0 0 0 1])
-  ("var_idx" .
-   [6 0 0 0 0 0 0])
-  ("numvars" .
-   [1 0 0 0 0 0 0])
-  ("tktg_set_at_d_strings" .
-   [0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 1 0 0 0 0 0])
-  ("vars" .
-   [1 0 0 0])
-  ("tkCASVarPtr" .
-   [0 0 0 0 0 0 0 0 0 0 1])
-  ("ds_name" .
-   [6 0 0 0 0 1 0])
-  ("U" .
-   [1])
-  ("UTF8ByteLength" .
-   [0 0 0 0 0 1 0 0 0 0 0 0 0 0])
-  ("nameLen" .
+  ("start" .
+   [19 0 0 0 1])
+  ("buildTree" .
+   [1 0 0 0 0 0 1 0 0])
+  ("parents" .
+   [2 0 0 1 5 0 3])
+  ("unordered_set" .
+   [0 0 1 0 6 0 0 3 0 0 0 0 1])
+  ("string" .
+   [37 0 0 0 0 0])
+  ("map" .
+   [5 0 0])
+  ("end" .
+   [20 0 0])
+  ("ladder" .
+   [6 0 1 0 0 5])
+  ("push_back" .
+   [0 0 2 3 10 1 0 0 0])
+  ("ladders" .
+   [4 0 0 0 0 0 1])
+  ("wordLadder/" .
+   [0 0 0 0 0 1 0 0 0 0 0])
+  ("src/" .
+   [0 0 2 1])
+  ("my/" .
+   [0 1 2])
+  ("tg/" .
+   [0 0 2])
+  ("home/" .
+   [0 4 0 0 1])
+  ("ls" .
+   [48 0])
+  ("master" .
+   [2 0 0 0 0 0])
+  ("git" .
+   [3 0 0])
+  ("./" .
+   [0 2])
+  ("init-themes" .
+   [0 0 0 0 0 0 0 0 0 1 0])
+  ("goto-line" .
+   [0 0 0 0 0 0 1 0 0])
+  ("iedit-mode" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("kbd" .
+   [2 0 0])
+  ("global-map" .
+   [0 0 0 0 0 0 0 0 0 2])
+  ("define-key" .
+   [0 0 0 0 0 0 0 0 0 2])
+  ("c-mode-hook" .
+   [0 0 0 0 0 0 0 0 0 0 3])
+  ("my:ac-c-header-init" .
+   [0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("c++-mode-hook" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("add-hook" .
+   [2 0 0 0 0 0 0 3])
+  ("ac-source-css-property" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("ac-sources" .
+   [0 0 0 0 0 0 0 0 0 2])
+  ("add-to-list" .
+   [0 0 0 0 0 0 0 0 0 0 3])
+  ("auto-complete-c-headers" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("autoload" .
+   [0 0 0 0 0 1 0 0])
+  ("defun" .
+   [1 0 0 0 1])
+  ("yas-global-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("yasnippet" .
+   [0 0 0 1 0 0 0 0 0])
+  ("require" .
+   [0 0 0 0 0 0 5])
+  ("achead:ac-prefix" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("achead:include-directories" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("flymake-google-cpplint" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("my:flymake-google-init" .
+   [0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("load-path" .
+   [0 0 0 0 0 0 0 0 1])
+  ("count" .
+   [3 0 0 0 0])
+  ("newWord" .
+   [1 0 0 0 0 0 1])
+  ("continue" .
+   [0 0 0 0 0 0 0 1])
+  ("vector" .
+   [14 0 0 0 1 10])
+  ("find" .
+   [3 0 0 0])
+  ("pop_back" .
+   [0 0 0 1 0 0 0 0])
+  ("struct" .
+   [0 1 0 0 0 3])
+  ("typedef" .
+   [0 0 0 0 0 0 2])
+  ("CASIDX_CREATE_TABLE" .
+   [0 0 0 0 0 0 1 1 0 0 0 1 0 0 0 0 0 0 1])
+  ("casidx_create_table" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("CASIDX_CREATE_TABLE_RESULT" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("D_STRING" .
+   [2 0 0 0 0 0 0 7])
+  ("D_STRINGS" .
+   [4 0 0 0 0 0 0 0 0])
+  ("DL_TAB" .
+   [2 0 3 0 0 0])
+  ("tkcasaActionContextPtr" .
+   [0 0 0 0 0 0 0 8 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("actx" .
+   [35 0 0 1])
+  ("TKStatus" .
+   [0 0 0 1 1 0 0 7])
+  ("status" .
+   [49 0 0 0 0 12])
+  ("act" .
+   [47 0 0])
+  ("tktg" .
+   [58 0 0 0])
+  ("Finish" .
+   [9 0 1 1 5 8])
+  ("newline" .
+   [2 0 0 0 0 0 0])
+  ("nil" .
+   [3 0 0])
+  ("uint64_t" .
+   [3 0 0 0 2 1 2 11])
+  ("atb_act" .
+   [14 0 1 2 1 2 22])
+  ("nb_docs" .
    [3 0 0 0 0 0 0])
-  ("varID" .
-   [4 0 0 0 0])
-  ("intkv" .
-   [6 0 0 0 0])
-  ("rawDataLen" .
-   [0 0 0 1 1 1 0 0 0 0])
-  ("ttb_vList" .
-   [1 0 0 0 0 0 2 0 0])
-  ("INT64_t" .
+  ("tktg_get_json_object" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 2 0 0 2])
+  ("JSON_OBJECT" .
+   [0 0 0 0 0 1 4 2 0 0 0])
+  ("JSON_NUMBER_H" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("json_number" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("the" .
+   [3 0 0])
+  ("like" .
+   [1 0 0 0])
+  ("this" .
+   [3 0 0 0])
+  ("casidx_append_table" .
+   [0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("tkv" .
+   [16 0 0])
+  ("var" .
+   [2 0 0])
+  ("next" .
+   [1 0 0 0])
+  ("data" .
+   [6 0 0 0])
+  ("offset" .
+   [4 0 0 2 0 2])
+  ("vdp" .
+   [9 0 0])
+  ("tkcastabVarDescPtr" .
+   [0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0])
+  ("json_row" .
+   [3 0 0 0 0 0 0 0])
+  ("tktg_get_elt_json_array" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0])
+  ("json_data" .
+   [2 0 0 0 0 0 0 0 0])
+  ("json_row_doc" .
+   [3 0 0 0 0 0 0 0 0 0 0 0])
+  ("tktg_get_json_" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("t" .
+   [3])
+  ("tktg_get_pair_json_object" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("json_var_name" .
+   [0 0 0 0 0 0 0 0 2 0 0 0 0])
+  ("name" .
+   [6 0 0 0])
+  ("Offset" .
+   [0 0 0 0 0 1])
+  ("value" .
+   [5 0 0 0 0])
+  ("loc" .
+   [2 0 0])
+  ("UTF8TEXT" .
+   [0 0 0 1 0 0 0 0])
+  ("byteLength" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("UTF8_BLEN" .
+   [1 0 0 0 0 1 2 0 0])
+  ("json_var_value" .
+   [1 0 0 0 0 0 0 0 0 0 0 2 0 0])
+  ("tktg_get_json_string" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("tkcastabAddRow" .
+   [0 0 0 0 0 0 0 0 0 2 1 0 0 0])
+  ("I" .
+   [1])
+  ("tbl" .
+   [1 0 0])
+  ("tkcastabTablePtr" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("flags" .
+   [1 0 0 0 0])
+  ("TKCASTAB_FLAG_REPLACE" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("data_num" .
+   [1 0 0 0 0 0 0 0])
+  ("rtype" .
+   [3 0 1 2 0])
+  ("btype" .
+   [2 0 0 1 1])
+  ("f" .
+   [4])
+  ("ds" .
+   [3 0])
+  ("ds_value" .
+   [5 0 0 0 0 1 2 1])
+  ("d" .
+   [2])
+  ("status_object" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 1])
+  ("tktg_trim_d_string" .
+   [0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0])
+  ("TKVAR_ROOTTYPE_CHAR" .
+   [0 0 0 1 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("rytpe" .
+   [1 0 0 0 0])
+  ("tktg_strcpy_d_string" .
+   [0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0])
+  ("TKVAR_ROOTTYPE_NUMERIC" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("phone" .
+   [1 0 0 0 0])
+  ("p1" .
+   [1 0])
+  ("p2" .
+   [2 0])
+  ("q2" .
+   [1 0])
+  ("q1" .
+   [1 0])
+  ("In" .
+   [1 0])
+  ("version" .
+   [1 0 0 0 1 0 0])
+  ("controller" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("parse" .
+   [1 0 0 0 0])
+  ("S" .
+   [1])
+  ("After" .
+   [2 0 0 0 0])
+  ("each" .
+   [1 0 0 0])
+  ("parsing" .
+   [1 0 0 0 0 0 0])
+  ("send" .
+   [1 0 0 0])
+  ("sends" .
+   [1 0 0 0 0])
+  ("one" .
+   [1 0 0])
+  ("to" .
+   [1 0])
+  ("then" .
+   [1 0 0 0])
+  ("a" .
+   [5])
+  ("all" .
+   [2 0 0])
+  ("nodes" .
+   [1 0 0 0 0])
+  ("run" .
+   [1 0 0])
+  ("write" .
+   [1 0 0 0 0])
+  ("append" .
+   [1 0 0 0 0 0])
+  ("together" .
+   [1 0 0 0 0 0 0 0])
+  ("j" .
+   [2])
+  ("n" .
+   [4])
+  ("i" .
+   [5])
+  ("nb_rows_tmp" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("nb" .
+   [4 0])
+  ("nb_rows_t" .
+   [0 0 0 0 0 0 0 0 1])
+  ("nb_workers" .
+   [1 0 0 0 0 1 2 0 0 1])
+  ("nb_fail" .
+   [2 0 0 0 0 0 0])
+  ("CASIDX_APPEND_TABLE_ACTION_FAILED_TO_ADD_ROW" .
+   [0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("nb_ranks" .
+   [3 0 0 0 3 0 0 0])
+  ("numBroken" .
+   [0 0 0 0 0 1 2 0 0])
+  ("gc_num_ranks" .
+   [0 0 0 0 0 0 1 0 0 0 0 0])
+  ("comm" .
+   [7 0 0 0])
+  ("nb_tmp_rows" .
+   [1 0 0 0 1 1 2 0 0 0 0])
+  ("nb_fails" .
+   [1 0 0 1 0 0 0 0])
+  ("root_rank" .
+   [1 0 0 0 0 2 0 1 0])
+  ("gc_root_rank" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("add_ith_json_to_jth_worker" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("reset_j" .
    [0 0 0 0 0 0 1])
-  ("ttb_rlen" .
+  ("casidx_append_table_action_ptr" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("svn" .
+   [3 0 0])
+  ("pwd" .
+   [1 0 0])
+  ("add" .
+   [2 0 0])
+  ("root/" .
+   [0 0 1 0 0])
+  ("tar_tbl_cookie" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("tmp_tbl_cookie" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("CASIDX_APPEND_TABLE_ACTION_INVALID_PROTOCAL_VERSION" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("CASIDX_APPEND_TABLE_ACTION_INVALID_JSON_PARM" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("TRUE" .
+   [0 0 0 1])
+  ("tar_ti" .
+   [1 0 0 0 0 0])
+  ("pi64" .
+   [0 0 1 0])
+  ("doc_str" .
+   [1 0 0 0 0 0 0])
+  ("tmp" .
+   [24 0 0])
+  ("add_row_thread" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("m" .
+   [2])
+  ("len" .
+   [5 0 0])
+  ("st" .
+   [15 0])
+  ("max_len" .
+   [2 0 0 0 0 2 0])
+  ("TKLock" .
+   [0 0 0 0 0 1])
+  ("TKLockh" .
+   [1 0 0 0 0 0 0])
+  ("lock" .
+   [3 0 0 0])
+  ("tktLockDestroy" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("tkLockCreate" .
+   [0 0 0 0 1 0 0 0 0 0 0 0])
+  ("tkGetHandle" .
+   [0 0 0 0 0 1 0 0 0 0 0])
+  ("lockparm" .
    [1 0 0 0 0 1 0 0])
-  ("itb_rlen" .
-   [0 0 0 0 0 1 0 1])
-  ("itb_vList" .
-   [0 0 0 0 0 0 2 0 0])
-  ("tkCASVarListPtr" .
-   [0 0 0 0 0 0 0 0 0 0 0 0 0 2 0])))
+  ("TKLockCreateParms" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("hash_value" .
+   [1 0 0 0 0 0 0 1 0 0])
+  ("regularExpressionMatching/" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("rank" .
+   [4 0 0 0])
+  ("bcast_version_rank" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("newRanks" .
+   [2 0 0 3 6 0 0 0])
+  ("Action" .
+   [1 0 0 0 0 0])
+  ("nb_pre_brks" .
+   [0 0 0 0 0 0 1 1 0 0 1])
+  ("isBroken" .
+   [0 0 0 0 1 0 0 0])
+  ("got" .
+   [21 0 0])
+  ("my" .
+   [1 0])
+  ("int64_t" .
+   [4 0 0 0 0 0 0])
+  ("regularExpressionMatching" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("dp" .
+   [3 0])
+  ("cout" .
+   [7 0 0 0])
+  ("print_dp" .
+   [1 0 0 0 0 0 0 1])
+  ("tag" .
+   [3 0 0])
+  ("r" .
+   [1])
+  ("3Sum_pp.cpp" .
+   [1 1 4 0 0 0 0 0 0 0 2])
+  ("3Sum_pp2.cpp" .
+   [1 1 1 0 0 0 0 0 0 0 0 0])
+  ("3Sum_pp2" .
+   [1 1 0 0 0 0 0 0])
+  ("from" .
+   [0 0 0 1])
+  ("nums2" .
+   [3 0 0 0 0])
+  ("mode" .
+   [6 0 0 0])
+  ("build_main" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("strStr/" .
+   [0 0 0 1 0 0 0])
+  ("strStr_pp.cpp" .
+   [0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("strStr_pp" .
+   [0 0 2 0 0 0 0 0 0])
+  ("-o" .
+   [2 0])
+  ("haystack" .
+   [1 0 0 0 0 0 0 0])
+  ("needle" .
+   [1 0 0 0 0 0])
+  ("String" .
+   [0 0 0 0 0 1])
+  ("open_two_tables" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("ttb_status" .
+   [0 0 1 0 0 0 0 0 0 0])
+  ("itb_status" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("close" .
+   [1 0 0 0 0])
+  ("close_two_tables" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("CASIDX_BUILD_INDEX_CREATE_EMPTY" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("CASIDX_BUILD_" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("CASIDX_BUILD_INDEX_CREATE_NEW" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("CASIDX_CREATE_EMPTY_INDEX" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("CASIDX_CREATE_NEW_INDEX" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("exitE" .
+   [0 0 0 0 1])
+  ("switch" .
+   [0 0 0 1 0 0])
+  ("cas" .
+   [4 0 0])
+  ("default" .
+   [0 0 0 0 0 1 0])
+  ("doc_list" .
+   [0 0 0 0 0 0 1 0])
+  ("uint32_t" .
+   [1 0 0 0 0 0 13 0])
+  ("index_prefix" .
+   [0 0 0 0 0 0 0 0 0 6 1 1])
+  ("tix_handler" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("ttb_name" .
+   [2 0 0 0 0 0 0 0])
+  ("tti" .
+   [5 0 0])
+  ("itb_name" .
+   [1 0 0 1 0 3 1 0])
+  ("iti" .
+   [2 0 0])
+  ("tkidx" .
+   [1 0 0 0 0])
+  ("CASIDX_BUILD_INDEX_FAIL_TO_CREATE_TKIDX" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("x1" .
+   [1 0])
+  ("thread_idx" .
+   [9 0 0 0 0 0 0 0 0 0])
+  ("handler" .
+   [1 0 0 0 0 0 0])
+  ("g" .
+   [1])
+  ("setting" .
+   [1 0 0 0 0 0 0])
+  ("field_idx" .
+   [18 0 0 0 0 0 0 0 0])
+  ("attr_idx" .
+   [3 0 0 0 0 0 1 0])
+  ("attr" .
+   [1 0 0 0])
+  ("thread_id" .
+   [0 0 0 0 0 0 0 0 1])
+  ("build_status" .
+   [1 0 0 0 0 0 0 7 2 1 0 0])
+  ("id_field_name" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("field_attributes" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("statuses" .
+   [1 0 0 0 0 0 0 0])
+  ("N" .
+   [1])
+  ("tkcasdalH" .
+   [1 0 0 0 0 0 0 0 0])
+  ("TK_GENERIC" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("CASIDX_BUILD_INDEX_INVALID_JSON" .
+   [1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("json_root" .
+   [5 0 0 0 0 0 0 0 1])
+  ("CASIDX_BUILD_INDEX_NODE_BROKEN" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("erro" .
+   [1 0 0 0])
+  ("errorcode" .
+   [1 0 0 0 0 0 0 0 0])
+  ("tklStatusToJnl" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("client" .
+   [0 0 0 0 0 1])
+  ("TKSeverityError" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("instat" .
+   [0 0 0 0 1 0])
+  ("casidx_build_index_20Jun2015_newFlow.c" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("casidx_build_index_21Jun2015_build_status" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("get_schema_in_json" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("_get_schema_info" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("CASIDX_BUILD_INDEX_ACTION" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("casidxH" .
+   [1 0 0 0 0 0 0])
+  ("index_dir" .
+   [0 0 0 0 0 0 0 1 0])
+  ("index" .
+   [3 0 0 0 0])
+  ("schema_file" .
+   [1 0 0 0 0 0 0 0 4 3 0])
+  ("schema" .
+   [0 0 0 0 0 1])
+  ("tktg_strcat_d_string" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0])
+  ("fp" .
+   [6 0])
+  ("FILE" .
+   [1 0 0 0])
+  ("fopen" .
+   [0 0 0 1 0])
+  ("CASIDX_INDEX_NOT_EXIST" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("tktg_d_string_fgets" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("ds_tmp" .
+   [7 0 0 0 1 0])
+  ("ds_json" .
+   [7 0 0 0 0 0 0])
+  ("json_schema" .
+   [1 0 0 0 0 0 0 4 0 0 0])
+  ("nb_fields" .
+   [1 0 0 0 0 0 0 1 0])
+  ("field_count" .
+   [1 0 0 0 0 0 0 1 0 0 0])
+  ("tktg_nb_pairs_json_object" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("json_value" .
+   [1 0 0 0 0 0 0 0 2 0])
+  ("json_key" .
+   [3 0 0 0 0 0 0 0])
+  ("json_type" .
+   [3 0 0 0 0 0 0 0 0])
+  ("JSON_STRING" .
+   [0 0 0 0 0 0 3 0 0 0 0])
+  ("tktg_set_at_dl_tab" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("fclose" .
+   [0 0 0 1 0 0])
+  ("_set_fields_from_schema" .
+   [0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("CASIDX_BUILD_INDEX_INVALID_INDEX_NAME" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("auto" .
+   [1 0 0 0])
+  ("lambda" .
+   [0 0 0 0 0 1])
+  ("setq" .
+   [1 0 0 0])
+  ("truncate-lines" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("tktg_fast_strcat_d_string" .
+   [0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("DEFAULT_TEMP_DIR" .
+   [0 0 2 2 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("json_index" .
+   [1 0 0 0 0 0 0 1 0 0])
+  ("last" .
+   [0 0 0 1])
+  ("tktg_get_last_char_pos_d_string" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])))
