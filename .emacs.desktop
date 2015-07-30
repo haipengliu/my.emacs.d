@@ -2,7 +2,7 @@
 ;; --------------------------------------------------------------------------
 ;; Desktop File for Emacs
 ;; --------------------------------------------------------------------------
-;; Created Thu Jul  9 10:27:47 2015
+;; Created Thu Jul 30 08:18:03 2015
 ;; Desktop file format version 206
 ;; Emacs version 24.3.1
 
@@ -10,12 +10,287 @@
 (setq desktop-missing-file-warning nil)
 (setq tags-file-name nil)
 (setq tags-table-list nil)
-(setq search-ring '("itb" "read_input" "index_path" "path" "index_path" "ds_index" "itb_nam" "index_path" "get_index_dir" "index_path" "read_" "build_thread" "attr_count" "_parse_json" "open_table" "_parse"))
+(setq search-ring '("map_value" "id_field_name" "id_name" "id_field" "append" "id_field_name" "id_name_str" "id_field_name" "id_name" "id_field_name" "isRowH" "FALSE" "is" "set_url" "int_data" "setup_json"))
 (setq regexp-search-ring nil)
-(setq register-alist nil)
-(setq file-name-history '("/home/scnhpl/ORG-SCNHPL/scnhpl.org" "/home/scnhpl/CAS/tktg-playpen/src/casidx_append_index.c" "/home/scnhpl/CAS/tktg-playpen/src/casidximpl.c" "/home/scnhpl/CAS/tktg-playpen/src/casidx_build_index.c" "/home/scnhpl/ORG-SCNHPL/scnhpl.org" "/root/.emacs.d/init.el" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_27Jun_partition_table.c" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_27Jun.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_25Jun2015_dal.c" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_CASIDX124_25Jun.c" "/root/.emacs.d/init.el" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_CASIDX124_25Jun.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_25Jun2015_dal.c" "/root/.emacs.d/init.el" "/root/emacs.d/init.el" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_CASIDX124_25Jun.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_25Jun2015_dal.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_20Jun2015_tabVARtype.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_21Jun2015_build_status.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_21Jun2015.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_20Jun2015_tabVARtype.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx-playpen/tktg/src/casidx_create_table.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_20Jun2015_tabVARtype.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_20Jun2015_newFlow.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_20Jun2015.c" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_CASIDX124_19June.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_19Jun2015.c" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_CASIDX124_17June.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_17Jun2015.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_search_table_index.c"))
+(setq register-alist '((48 . "= NULL;\n  TIXDOC_LIST                doc_list      = NULL;\n  TIXDOC                     doc           ")))
+(setq file-name-history '("/home/scnhpl/CAS/sprint-8-playpen/src/casidx_search_index.c" "/home/scnhpl/CAS/sprint-8-playpen/src/casidx_append_index.c" "/home/scnhpl/CAS/sprint-8-playpen/src/casidx_build_index.c" "/home/scnhpl/CAS/sprint-8-playpen/msg/en/tkmcidx.tkmsg" "/home/scnhpl/CAS/sprint-8-playpen/src/casidximpl.c" "/home/scnhpl/prog/tglib/src/lib/tgstd/d_strings/d_strings.c" "/home/scnhpl/CAS/sprint-8-playpen/src/casidx_get_schema.c" "/home/scnhpl/CAS/sprint-8-playpen/grm/casidx.prm" "/home/scnhpl/CAS/tktg-playpen/msg/en/tkmcidx.tkmsg" "/home/scnhpl/CAS/tktg-playpen/src/casidx_build_index.c" "/home/scnhpl/ORG-SCNHPL/scnhpl.org" "/home/scnhpl/CAS/tktg-playpen/src/casidx_append_index.c" "/home/scnhpl/CAS/tktg-playpen/src/casidximpl.c" "/home/scnhpl/ORG-SCNHPL/scnhpl.org" "/root/.emacs.d/init.el" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_27Jun_partition_table.c" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_27Jun.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_25Jun2015_dal.c" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_CASIDX124_25Jun.c" "/root/.emacs.d/init.el" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_CASIDX124_25Jun.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_25Jun2015_dal.c" "/root/.emacs.d/init.el" "/root/emacs.d/init.el" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_CASIDX124_25Jun.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_25Jun2015_dal.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_20Jun2015_tabVARtype.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_21Jun2015_build_status.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_21Jun2015.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_20Jun2015_tabVARtype.c"))
 
 ;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/sprint-8-playpen/src/casidx_search_index.c"
+  "casidx_search_index.c<2><2>"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
+  29316
+  '(29496 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/sprint-8-playpen/src/casidx_append_index.c"
+  "casidx_append_index.c<2><2>"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
+  26169
+  '(65488 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/sprint-8-playpen/src/casidx_append_index.c~"
+  "casidx_append_index.c~"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
+  1
+  '(nil nil)
+  t
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "src<2>"
+  'dired-mode
+  '(yas-minor-mode helm-mode projectile-mode)
+  298
+  '(nil nil)
+  t
+  '("/home/scnhpl/CAS/sprint-8-playpen/src/")
+  nil)
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/sprint-8-playpen/src/casidx_build_index.c"
+  "casidx_build_index.c<2><2>"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  39917
+  '(38978 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/sprint-8-playpen/msg/en/tkmcidx.tkmsg"
+  "tkmcidx.tkmsg<2><2>"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  5095
+  '(3180 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/sprint-8-playpen/src/casidximpl.c"
+  "casidximpl.c<2><2>"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  2278
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/prog/tglib/src/lib/tgstd/d_string/d_string.c"
+  "d_string.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  35017
+  '(25656 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/prog/tglib/src/lib/tgstd/d_strings/d_strings.c"
+  "d_strings.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
+  1
+  '(2573 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/prog/tglib/src/lib/tgstd/d_strings/d_strings_func.h"
+  "d_strings_func.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
+  776
+  '(847 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/sprint-8-playpen/src/casidx_get_schema.c"
+  "casidx_get_schema.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
+  26948
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "en"
+  'dired-mode
+  '(yas-minor-mode helm-mode projectile-mode)
+  227
+  '(nil nil)
+  t
+  '("/home/scnhpl/CAS/sprint-8-playpen/msg/en/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "msg"
+  'dired-mode
+  '(yas-minor-mode helm-mode projectile-mode)
+  224
+  '(nil nil)
+  t
+  '("/home/scnhpl/CAS/sprint-8-playpen/msg/")
+  nil)
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/tktg-playpen/src/casidx_build_index.c"
+  "casidx_build_index.c<2><2><2>"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  77229
+  '(72752 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/sprint-8-playpen/grm/casidx.prm"
+  "casidx.prm"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  13305
+  '(1116 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/tktg-playpen/src/casidx_append_index.c"
+  "casidx_append_index.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  3578
+  '(41594 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "src"
+  'dired-mode
+  '(yas-minor-mode helm-mode projectile-mode)
+  280
+  '(nil nil)
+  t
+  '("/home/scnhpl/CAS/tktg-playpen/src/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "tktg-playpen"
+  'dired-mode
+  '(yas-minor-mode helm-mode projectile-mode)
+  356
+  '(nil nil)
+  t
+  '("/home/scnhpl/CAS/tktg-playpen/")
+  nil)
+
+(desktop-create-buffer 206
+  nil
+  "sprint-8-playpen"
+  'dired-mode
+  '(yas-minor-mode helm-mode projectile-mode)
+  360
+  '(nil nil)
+  t
+  '("/home/scnhpl/CAS/sprint-8-playpen/")
+  nil)
+
+(desktop-create-buffer 206
+  "/usr/share/emacs/24.3/etc/HELLO"
+  "HELLO"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode view-mode)
+  1
+  '(nil nil)
+  t
+  nil
+  '((tab-width . 32) (buffer-file-coding-system . iso-2022-7bit-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "CAS"
+  'dired-mode
+  '(yas-minor-mode helm-mode projectile-mode)
+  520
+  '(nil nil)
+  t
+  '("/home/scnhpl/CAS/")
+  nil)
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/tktg-playpen/src/casidximpl.c"
+  "casidximpl.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  3362
+  '(815 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/tktg-playpen/msg/en/tkmcidx.tkmsg"
+  "tkmcidx.tkmsg"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  5322
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_27Jun_partition_table.c"
+  "casidx_build_index_27Jun_partition_table.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  52280
+  '(14862 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "CASIDX123-buildIndex"
+  'dired-mode
+  '(yas-minor-mode helm-mode projectile-mode)
+  2731
+  '(nil nil)
+  t
+  '("/home/scnhpl/CAS/CASIDX123-buildIndex/")
+  nil)
+
 (desktop-create-buffer 206
   "/home/scnhpl/ORG-SCNHPL/scnhpl.org"
   "scnhpl.org"
@@ -28,56 +303,12 @@
   '((buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
 
 (desktop-create-buffer 206
-  "/home/scnhpl/CAS/tktg-playpen/src/casidx_append_index.c"
-  "casidx_append_index.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  14470
-  '(14467 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/tktg-playpen/src/casidximpl.c"
-  "casidximpl.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  3778
-  '(1 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/tktg-playpen/src/casidx_build_index.c"
-  "casidx_build_index.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  1
-  '(24243 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
   "/root/.emacs.d/init.el"
   "init.el"
   'emacs-lisp-mode
   '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
   4989
   '(3080 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_27Jun_partition_table.c"
-  "casidx_build_index_27Jun_partition_table.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  14862
-  '(1 nil)
   nil
   nil
   '((buffer-file-coding-system . undecided-unix)))
@@ -139,7 +370,7 @@
 
 (desktop-create-buffer 206
   "/home/scnhpl/CAS/CASIDX-appendTable/casidx_search_index.c"
-  "casidx_search_index.c<2><2>"
+  "casidx_search_index.c<2><2><2>"
   'c-mode
   '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
   62669
@@ -623,7 +854,7 @@
 
 (desktop-create-buffer 206
   "/home/scnhpl/CAS/CASIDX-appendTable/casidx_build_index.c"
-  "casidx_build_index.c<2><2>"
+  "casidx_build_index.c<2><2><2><2>"
   'c-mode
   '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
   41233
@@ -700,7 +931,7 @@
 
 (desktop-create-buffer 206
   "/home/scnhpl/CAS/CASIDX-appendTable/tkmcidx.tkmsg"
-  "tkmcidx.tkmsg<2><2>"
+  "tkmcidx.tkmsg<2><2><2>"
   'fundamental-mode
   '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
   4105
@@ -920,7 +1151,7 @@
 
 (desktop-create-buffer 206
   "/home/scnhpl/CAS/CASIDX-createTable/casidx_build_index.c"
-  "casidx_build_index.c<2>"
+  "casidx_build_index.c<2><3>"
   'c-mode
   '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
   12517
@@ -1139,30 +1370,8 @@
   '((buffer-file-coding-system . undecided-unix)))
 
 (desktop-create-buffer 206
-  "/home/scnhpl/prog/tglib/src/lib/tgstd/d_strings/d_strings.c"
-  "d_strings.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  2573
-  '(1 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/prog/tglib/src/lib/tgstd/d_strings/d_strings_func.h"
-  "d_strings_func.h"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  776
-  '(847 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
   "/home/scnhpl/CAS/CASIDX-createTable/casidx_search_index.c"
-  "casidx_search_index.c<2><2><2>"
+  "casidx_search_index.c<2><2><2><2>"
   'c-mode
   '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
   1
@@ -1656,28 +1865,6 @@
   '((buffer-file-coding-system . undecided-unix)))
 
 (desktop-create-buffer 206
-  "/home/scnhpl/CAS/tktg-playpen/msg/en/tkmcidx.tkmsg"
-  "tkmcidx.tkmsg"
-  'fundamental-mode
-  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/prog/tglib/src/lib/tgstd/d_string/d_string.c"
-  "d_string.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
   "/home/scnhpl/CAS/tktg-playpen/src/casidx_search_index.c"
   "casidx_search_index.c"
   'c-mode
@@ -1693,6 +1880,72 @@
   "substringWithConcatenationOfAllWords.cpp"
   'c++-mode
   '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/substringWithConcatenationOfAllWords/substringWithConcatenationOfAllWords_pp.cpp"
+  "substringWithConcatenationOfAllWords_pp.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/usr/include/c++/4.8/bits/stl_map.h"
+  "stl_map.h"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/usr/include/c++/4.8/bits/stl_tree.h"
+  "stl_tree.h"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/searchForRange/searchForRange.cpp"
+  "searchForRange.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/searchInsertPosition/searchInsertPosition.cpp"
+  "searchInsertPosition.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/tg/my/leetcode/src/searchInsertPosition/searchInsertPosition_pp.cpp"
+  "searchInsertPosition_pp.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
   1
   '(nil nil)
   nil

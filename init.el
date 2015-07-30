@@ -7,6 +7,19 @@
 (add-to-list 'package-archives '("gnu" . "http://elpa.gnu.org/packages/"))
 (package-initialize)
 
+(require 'cc-mode)
+(setq c-default-style "gnu")
+(global-set-key (kbd "RET") 'newline-and-indent)  ; automatically indent when press RET
+;; whitespace-cleanup when startup
+;;(whitespace-global-modes nil)
+;; activate whitespace-mode to view all whitespace characters
+(global-set-key (kbd "C-c w") 'whitespace-mode)
+;; use space to indent by default
+(setq-default indent-tabs-mode nil)
+;; set appearance of a tab that is represented by 4 spaces
+(setq-default tab-width 2)
+
+
 (require 'auto-complete)
 (require 'auto-complete-config)
 (ac-config-default)
@@ -114,18 +127,6 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  )
-
-(require 'cc-mode)
-(setq c-default-style "gnu")
-(global-set-key (kbd "RET") 'newline-and-indent)  ; automatically indent when press RET
-;; whitespace-cleanup when startup
-(whitespace-global-modes t)
-;; activate whitespace-mode to view all whitespace characters
-(global-set-key (kbd "C-c w") 'whitespace-mode)
-;; use space to indent by default
-(setq-default indent-tabs-mode nil)
-;; set appearance of a tab that is represented by 4 spaces
-(setq-default tab-width 2)
 
 ;; (require 'function-args)
 ;; (fa-config-default)
