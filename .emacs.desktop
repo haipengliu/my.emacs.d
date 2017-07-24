@@ -2,1870 +2,395 @@
 ;; --------------------------------------------------------------------------
 ;; Desktop File for Emacs
 ;; --------------------------------------------------------------------------
-;; Created Thu Jul 30 08:18:03 2015
-;; Desktop file format version 206
-;; Emacs version 24.3.1
+;; Created Wed Jul 12 13:08:33 2017
+;; Desktop file format version 208
+;; Emacs version 25.1.1
 
 ;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22886 818 213196 234000) (desktop . "208") "hpl@hpl-virtual-machine" nil nil ((((tty-type . "xterm") (tty . "/dev/tty") (display-type . color) (background-mode . light) (foreground-color . "unspecified-fg") (background-color . "unspecified-bg") (font . "tty") (height . 35) (width . 128) (modeline . t) (unsplittable) (menu-bar-lines . 1) (frameset--id . "7A4F-9BC6-9C6F-9FE8") (frameset--mini t) (minibuffer . t)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 2) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 4) (min-pixel-width . 10) (min-pixel-height-ignore . 3) (min-pixel-width-ignore . 2) (min-pixel-height-safe . 1) (min-pixel-width-safe . 2)) leaf (pixel-width . 128) (pixel-height . 34) (total-width . 128) (total-height . 34) (normal-height . 1.0) (normal-width . 1.0) (buffer "*eww*" (selected . t) (hscroll . 0) (fringes 0 0 nil) (margins nil) (scroll-bars nil 0 t nil 0 nil) (vscroll . 0) (dedicated) (point . 1) (start . 1))))])
 (setq desktop-missing-file-warning nil)
 (setq tags-file-name nil)
 (setq tags-table-list nil)
-(setq search-ring '("map_value" "id_field_name" "id_name" "id_field" "append" "id_field_name" "id_name_str" "id_field_name" "id_name" "id_field_name" "isRowH" "FALSE" "is" "set_url" "int_data" "setup_json"))
+(setq search-ring '("acce" "switch" "tkwfst_com" "_get" "parse" "tktg" "compile" "print" "compile" "print" "determin" "missing" "missing_" "missing_sy" "show_we" "acc"))
 (setq regexp-search-ring nil)
 (setq register-alist '((48 . "= NULL;\n  TIXDOC_LIST                doc_list      = NULL;\n  TIXDOC                     doc           ")))
-(setq file-name-history '("/home/scnhpl/CAS/sprint-8-playpen/src/casidx_search_index.c" "/home/scnhpl/CAS/sprint-8-playpen/src/casidx_append_index.c" "/home/scnhpl/CAS/sprint-8-playpen/src/casidx_build_index.c" "/home/scnhpl/CAS/sprint-8-playpen/msg/en/tkmcidx.tkmsg" "/home/scnhpl/CAS/sprint-8-playpen/src/casidximpl.c" "/home/scnhpl/prog/tglib/src/lib/tgstd/d_strings/d_strings.c" "/home/scnhpl/CAS/sprint-8-playpen/src/casidx_get_schema.c" "/home/scnhpl/CAS/sprint-8-playpen/grm/casidx.prm" "/home/scnhpl/CAS/tktg-playpen/msg/en/tkmcidx.tkmsg" "/home/scnhpl/CAS/tktg-playpen/src/casidx_build_index.c" "/home/scnhpl/ORG-SCNHPL/scnhpl.org" "/home/scnhpl/CAS/tktg-playpen/src/casidx_append_index.c" "/home/scnhpl/CAS/tktg-playpen/src/casidximpl.c" "/home/scnhpl/ORG-SCNHPL/scnhpl.org" "/root/.emacs.d/init.el" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_27Jun_partition_table.c" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_27Jun.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_25Jun2015_dal.c" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_CASIDX124_25Jun.c" "/root/.emacs.d/init.el" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_CASIDX124_25Jun.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_25Jun2015_dal.c" "/root/.emacs.d/init.el" "/root/emacs.d/init.el" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_CASIDX124_25Jun.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_25Jun2015_dal.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_20Jun2015_tabVARtype.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_21Jun2015_build_status.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_21Jun2015.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_20Jun2015_tabVARtype.c"))
+(setq file-name-history '("~/openFSTWrapper/OpenFST/openfst-1.6.2/src/script/print.cc" "~/openFSTWrapper/OpenFST/tkwfst/src/tkwfst.c" "~/openFSTWrapper/OpenFST/tkwfst/src/openfst.cpp" "~/openFSTWrapper/OpenFST/wrapper/tkOpenFSTWrapper.c" "~/openFSTWrapper/OpenFST/openfst-1.6.2/src/script/openFstWrapper.cc" "~/openFSTWrapper/OpenFST/tkwfst/h/tkwfst.h" "~/openFSTWrapper/OpenFST/openfst-1.6.2/src/bin/openFstTest.cc" "~/bin/unixbb" "~/bin/taglax03" "~/.ssh/id_rsa.pub" "~/Downloads/vmware-tools-distrib/INSTALL" "~/Downloads/kdiff3-0.9.98/README" "~/Downloads/kdiff3-0.9.98/INSTALL" "~/.gitconfig" "~/Downloads/tmux-2.3/README" "/home/scnhpl/CAS/sprint-8-playpen/src/casidx_search_index.c" "/home/scnhpl/CAS/sprint-8-playpen/src/casidx_append_index.c" "/home/scnhpl/CAS/sprint-8-playpen/src/casidx_build_index.c" "/home/scnhpl/CAS/sprint-8-playpen/msg/en/tkmcidx.tkmsg" "/home/scnhpl/CAS/sprint-8-playpen/src/casidximpl.c" "/home/scnhpl/prog/tglib/src/lib/tgstd/d_strings/d_strings.c" "/home/scnhpl/CAS/sprint-8-playpen/src/casidx_get_schema.c" "/home/scnhpl/CAS/sprint-8-playpen/grm/casidx.prm" "/home/scnhpl/CAS/tktg-playpen/msg/en/tkmcidx.tkmsg" "/home/scnhpl/CAS/tktg-playpen/src/casidx_build_index.c" "/home/scnhpl/ORG-SCNHPL/scnhpl.org" "/home/scnhpl/CAS/tktg-playpen/src/casidx_append_index.c" "/home/scnhpl/CAS/tktg-playpen/src/casidximpl.c" "/home/scnhpl/ORG-SCNHPL/scnhpl.org" "/root/.emacs.d/init.el" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_27Jun_partition_table.c" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_27Jun.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_25Jun2015_dal.c" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_CASIDX124_25Jun.c" "/root/.emacs.d/init.el" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_CASIDX124_25Jun.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_25Jun2015_dal.c" "/root/.emacs.d/init.el" "/root/emacs.d/init.el" "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_CASIDX124_25Jun.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_25Jun2015_dal.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_20Jun2015_tabVARtype.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_21Jun2015_build_status.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_21Jun2015.c" "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_20Jun2015_tabVARtype.c"))
 
 ;; Buffer section -- buffers listed in same order as in buffer list:
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/sprint-8-playpen/src/casidx_search_index.c"
-  "casidx_search_index.c<2><2>"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  29316
-  '(29496 nil)
+(desktop-create-buffer 208
   nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/sprint-8-playpen/src/casidx_append_index.c"
-  "casidx_append_index.c<2><2>"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  26169
-  '(65488 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/sprint-8-playpen/src/casidx_append_index.c~"
-  "casidx_append_index.c~"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
+  "*eww*"
+  'eww-mode
+  '(yas-minor-mode helm-mode projectile-mode)
   1
   '(nil nil)
   t
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
+  '(:history ((:url "https://duckduckgo.com/html/?q=int_val+=+atoi(str_val);\n++++++tktg_set_int_wfst_opt(tktg,+opt,+str_key,+int_val);" :title "")))
+  '((truncate-lines . t) (eww-history-position . 0))
+  '((mark-ring nil)))
 
-(desktop-create-buffer 206
+(desktop-create-buffer 208
+  "/home/hpl/openFSTWrapper/OpenFST/tkwfst/src/_tkwfst.c"
+  "_tkwfst.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode helm-gtags-mode)
+  2919
+  '(2830 t)
   nil
-  "src<2>"
-  'dired-mode
-  '(yas-minor-mode helm-mode projectile-mode)
-  298
-  '(nil nil)
-  t
-  '("/home/scnhpl/CAS/sprint-8-playpen/src/")
-  nil)
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (3691 3579 3467 3360 3253 3146 3039 2932 2794 2685 2580 2474 2422 2474 1 2452))))
 
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/sprint-8-playpen/src/casidx_build_index.c"
-  "casidx_build_index.c<2><2>"
+(desktop-create-buffer 208
+  "/home/hpl/openFSTWrapper/OpenFST/wrapper/tkOpenFSTWrapper.c"
+  "tkOpenFSTWrapper.c"
   'c-mode
   '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  39917
-  '(38978 nil)
+  783
+  '(695 nil)
   nil
   nil
-  '((buffer-file-coding-system . undecided-unix)))
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1 6398 1 11037 5241 3824 5241 5161 923 391 1 5406 3555 100))))
 
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/sprint-8-playpen/msg/en/tkmcidx.tkmsg"
-  "tkmcidx.tkmsg<2><2>"
-  'fundamental-mode
-  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
-  5095
-  '(3180 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/sprint-8-playpen/src/casidximpl.c"
-  "casidximpl.c<2><2>"
+(desktop-create-buffer 208
+  "/home/hpl/openFSTWrapper/OpenFST/tkwfst/h/tkwfst.h"
+  "tkwfst.h"
   'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  2278
-  '(1 nil)
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode helm-gtags-mode)
+  1358
+  '(706 nil)
   nil
   nil
-  '((buffer-file-coding-system . undecided-unix)))
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (6324 4098 1736 3501 3501 3791 676 637 706 1))))
 
-(desktop-create-buffer 206
-  "/home/scnhpl/prog/tglib/src/lib/tgstd/d_string/d_string.c"
-  "d_string.c"
+(desktop-create-buffer 208
+  "/home/hpl/openFSTWrapper/OpenFST/tkwfst/src/tkwfst.c"
+  "tkwfst.c"
   'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  35017
-  '(25656 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/prog/tglib/src/lib/tgstd/d_strings/d_strings.c"
-  "d_strings.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode helm-gtags-mode)
   1
-  '(2573 nil)
+  '(7036 nil)
   nil
   nil
-  '((buffer-file-coding-system . undecided-unix)))
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (12603 14753 11954 11955 11954 12171 12315 12243 12171 12171 9972 9973 5644 5643 5642 5643))))
 
-(desktop-create-buffer 206
-  "/home/scnhpl/prog/tglib/src/lib/tgstd/d_strings/d_strings_func.h"
-  "d_strings_func.h"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  776
-  '(847 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/sprint-8-playpen/src/casidx_get_schema.c"
-  "casidx_get_schema.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  26948
+(desktop-create-buffer 208
+  "/home/hpl/openFSTWrapper/OpenFST/openfst-1.6.2/src/script/openFstWrapper.cc"
+  "openFstWrapper.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  3877
   '(1 nil)
   nil
   nil
-  '((buffer-file-coding-system . undecided-unix)))
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (7474 1 8442 1866 1 1991))))
 
-(desktop-create-buffer 206
-  nil
-  "en"
-  'dired-mode
-  '(yas-minor-mode helm-mode projectile-mode)
-  227
+(desktop-create-buffer 208
+  "/home/hpl/openFSTWrapper/OpenFST/openfst-1.6.2/src/script/print.cc"
+  "print.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode helm-gtags-mode)
+  728
   '(nil nil)
-  t
-  '("/home/scnhpl/CAS/sprint-8-playpen/msg/en/")
-  nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
 
-(desktop-create-buffer 206
+(desktop-create-buffer 208
+  "/home/hpl/openFSTWrapper/OpenFST/tkwfst/src/openfst.cpp"
+  "openfst.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode helm-gtags-mode)
+  8400
+  '(3098 nil)
   nil
-  "msg"
-  'dired-mode
-  '(yas-minor-mode helm-mode projectile-mode)
-  224
-  '(nil nil)
-  t
-  '("/home/scnhpl/CAS/sprint-8-playpen/msg/")
-  nil)
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (959))))
 
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/tktg-playpen/src/casidx_build_index.c"
-  "casidx_build_index.c<2><2><2>"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  77229
-  '(72752 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/sprint-8-playpen/grm/casidx.prm"
-  "casidx.prm"
-  'fundamental-mode
-  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
-  13305
-  '(1116 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/tktg-playpen/src/casidx_append_index.c"
-  "casidx_append_index.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  3578
-  '(41594 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  nil
+(desktop-create-buffer 208
+  "/home/hpl/openFSTWrapper/OpenFST/src"
   "src"
-  'dired-mode
-  '(yas-minor-mode helm-mode projectile-mode)
-  280
-  '(nil nil)
-  t
-  '("/home/scnhpl/CAS/tktg-playpen/src/")
-  nil)
-
-(desktop-create-buffer 206
-  nil
-  "tktg-playpen"
-  'dired-mode
-  '(yas-minor-mode helm-mode projectile-mode)
-  356
-  '(nil nil)
-  t
-  '("/home/scnhpl/CAS/tktg-playpen/")
-  nil)
-
-(desktop-create-buffer 206
-  nil
-  "sprint-8-playpen"
-  'dired-mode
-  '(yas-minor-mode helm-mode projectile-mode)
-  360
-  '(nil nil)
-  t
-  '("/home/scnhpl/CAS/sprint-8-playpen/")
-  nil)
-
-(desktop-create-buffer 206
-  "/usr/share/emacs/24.3/etc/HELLO"
-  "HELLO"
   'fundamental-mode
-  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode view-mode)
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
   1
   '(nil nil)
-  t
   nil
-  '((tab-width . 32) (buffer-file-coding-system . iso-2022-7bit-unix)))
+  nil
+  nil
+  '((mark-ring nil)))
 
-(desktop-create-buffer 206
+(desktop-create-buffer 208
+  "/home/hpl/openFSTWrapper/OpenFST/openfst-1.6.2/src/bin/openFstTest.cc"
+  "openFstTest.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1162
+  '(62 nil)
   nil
-  "CAS"
-  'dired-mode
-  '(yas-minor-mode helm-mode projectile-mode)
-  520
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/.gitconfig"
+  ".gitconfig"
+  'conf-unix-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  224
+  '(7 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (7 157 57))))
+
+(desktop-create-buffer 208
+  "/home/hpl/Downloads/kdiff3-0.9.98/README"
+  "README"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  2487
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/openFSTWrapper/OpenFST/openfst-1.6.2/src/bin/openFstTest"
+  "openFstTest"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
   '(nil nil)
-  t
-  '("/home/scnhpl/CAS/")
-  nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
 
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/tktg-playpen/src/casidximpl.c"
+(desktop-create-buffer 208
+  "/home/hpl/NCASIDX/h/casidxp.h"
+  "casidxp.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/NCASIDX/src/casidximpl.c"
   "casidximpl.c"
   'c-mode
   '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  3362
-  '(815 nil)
+  1
+  '(nil nil)
   nil
   nil
-  '((buffer-file-coding-system . undecided-unix)))
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
 
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/tktg-playpen/msg/en/tkmcidx.tkmsg"
+(desktop-create-buffer 208
+  "/home/hpl/openFSTWrapper/OpenFST/openfst-1.6.2/mv_wrapper_back_to_TK.sh"
+  "mv_wrapper_back_to_TK.sh"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/NCASIDX/src/casidx_append_index.c"
+  "casidx_append_index.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/NCASIDX/src/casidx_build_index.c"
+  "casidx_build_index.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/mnt/hgfs/OneDrive/ORG-SCNHPL/speech.org"
+  "speech.org"
+  'org-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines . t))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/openFSTWrapper/OpenFST/openfst-1.6.2/src/script/weight-class.cc"
+  "weight-class.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/tgwfst/TGLIB/lib/wfst.c"
+  "wfst.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/tgwfst/TGLIB/lib/wfst.h"
+  "wfst.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/casspeech/decoder/src/openFstDecoder.c"
+  "openFstDecoder.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/NCASIDX/grm/rulesco.prm"
+  "rulesco.prm"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/NCASIDX/grm/ruledev.prm"
+  "ruledev.prm"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/NCASIDX/src/ruledev_save_table_to_disk.c"
+  "ruledev_save_table_to_disk.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/NCASIDX/src/rulesco_load_table_from_disk.c"
+  "rulesco_load_table_from_disk.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/asr_egs/wsj/local/wsj_decode_graph.sh"
+  "wsj_decode_graph.sh"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/src/fstbin/fstaddselfloops.cc"
+  "fstaddselfloops.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/src/fstbin/fstaddselfloops.cc"
+  "fstaddselfloops.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/NCASIDX/msg/en/tkmcidx.tkmsg"
   "tkmcidx.tkmsg"
   'fundamental-mode
   '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
-  5322
-  '(1 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_27Jun_partition_table.c"
-  "casidx_build_index_27Jun_partition_table.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  52280
-  '(14862 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  nil
-  "CASIDX123-buildIndex"
-  'dired-mode
-  '(yas-minor-mode helm-mode projectile-mode)
-  2731
-  '(nil nil)
-  t
-  '("/home/scnhpl/CAS/CASIDX123-buildIndex/")
-  nil)
-
-(desktop-create-buffer 206
-  "/home/scnhpl/ORG-SCNHPL/scnhpl.org"
-  "scnhpl.org"
-  'org-mode
-  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
-  248
-  '(2580 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
-
-(desktop-create-buffer 206
-  "/root/.emacs.d/init.el"
-  "init.el"
-  'emacs-lisp-mode
-  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
-  4989
-  '(3080 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_25Jun2015_dal.c"
-  "casidx_build_index_25Jun2015_dal.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  71063
-  '(70341 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_27Jun.c"
-  "casidx_append_index_27Jun.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  4329
-  '(9548 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_CASIDX124_25Jun.c"
-  "casidx_append_index_CASIDX124_25Jun.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  6208
-  '(6200 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/root/emacs.d/init.el"
-  "init.el<2>"
-  'emacs-lisp-mode
-  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
-  2899
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . utf-8-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_search_table_index.c"
-  "casidx_search_table_index.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  30528
-  '(1 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_search_index.c"
-  "casidx_search_index.c<2><2><2>"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  62669
-  '(61247 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_21Jun2015_build_status.c"
-  "casidx_build_index_21Jun2015_build_status.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  33663
-  '(1 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_20Jun2015_tabVARtype.c"
-  "casidx_build_index_20Jun2015_tabVARtype.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  23880
-  '(23759 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_21Jun2015.c"
-  "casidx_build_index_21Jun2015.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  5784
-  '(5784 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_CASIDX124_19June.c"
-  "casidx_append_index_CASIDX124_19June.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  26512
-  '(1 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx-playpen/tktg/src/casidx_create_table.c"
-  "casidx_create_table.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  12736
-  '(1983 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_20Jun2015_newFlow.c"
-  "casidx_build_index_20Jun2015_newFlow.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  14672
-  '(59615 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_20Jun2015.c"
-  "casidx_build_index_20Jun2015.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  4291
-  '(1 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_19Jun2015.c"
-  "casidx_build_index_19Jun2015.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  8992
-  '(22770 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_17Jun2015.c"
-  "casidx_build_index_17Jun2015.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  52677
-  '(52718 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_get_schema_2015April16.c"
-  "casidx_get_schema_2015April16.c<2><2>"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  30389
-  '(15028 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_CASIDX124_17June.c"
-  "casidx_append_index_CASIDX124_17June.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  7204
-  '(2946 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_17May2015.c"
-  "casidx_build_index_17May2015.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  29069
-  '(1 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_17MAY2015.c"
-  "casidx_append_table_17MAY2015.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  27115
-  '(27962 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_09May2015.c"
-  "casidx_build_index_09May2015.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  39933
-  '(7750 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_CASIDX124.c"
-  "casidx_append_index_CASIDX124.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  2316
-  '(31204 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/strStr/strStr_pp.cpp"
-  "strStr_pp.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  539
-  '(1211 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/strStr/strStr.cpp"
-  "strStr.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  889
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/cc-mode/if"
-  "if"
-  'snippet-mode
-  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
-  112
-  '(1 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/cc-mode/elseif"
-  "elseif"
-  'fundamental-mode
-  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
-  125
-  '(1 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . utf-8-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/generateParentheses/generateParentheses_pp.cpp"
-  "generateParentheses_pp.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  732
-  '(360 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . utf-8-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/stringToIntegerAtoi/stringToIntegerAtoi.cpp"
-  "stringToIntegerAtoi.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  1763
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/wildcardMatching/wildcardMatching_pp.cpp"
-  "wildcardMatching_pp.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  4678
-  '(5171 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . utf-8-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/regularExpressionMatching/regularExpressionMatching_pp.cpp"
-  "regularExpressionMatching_pp.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  1768
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . utf-8-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/wildcardMatching/wildcardMatching.cpp"
-  "wildcardMatching.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  924
-  '(110 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . utf-8-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/4Sum/4Sum_pp.cpp"
-  "4Sum_pp.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  633
-  '(1 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . utf-8-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/4Sum/4Sum.cpp"
-  "4Sum.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  601
-  '(1335 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . utf-8-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/3SumClosest/3SumClosest.cpp"
-  "3SumClosest.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  2399
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/3SumClosest/3SumClosest_pp.cpp"
-  "3SumClosest_pp.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  1128
-  '(1121 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . utf-8-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/validParentheses/validParentheses_pp.cpp"
-  "validParentheses_pp.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  1904
-  '(1800 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . utf-8-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/removeNthNodeFromEndOfList/removeNthNodeFromEndOfList_pp.cpp"
-  "removeNthNodeFromEndOfList_pp.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  814
-  '(1 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . utf-8-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/longestCommonPrefix/longestCommonPrefix_pp.cpp"
-  "longestCommonPrefix_pp.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  704
-  '(945 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . utf-8-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/longestCommonPrefix/longestCommonPrefix.cpp"
-  "longestCommonPrefix.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  838
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/3Sum/3Sum_pp2.cpp"
-  "3Sum_pp2.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  2504
-  '(2393 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . utf-8-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/3Sum/3Sum.cpp"
-  "3Sum.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  2747
-  '(1973 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . utf-8-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/integerToRoman/integerToRoman.cpp"
-  "integerToRoman.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  801
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/containerWithMostWater/containerWithMostWater.cpp"
-  "containerWithMostWater.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  732
-  '(118 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/containerWithMostWater/containerWithMostWater_pp.cpp"
-  "containerWithMostWater_pp.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  1346
-  '(1126 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . utf-8-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/twoSum/twoSum.cpp"
-  "twoSum.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  1096
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/regularExpressionMatching/regularExpressionMatching_pp_dp.cpp"
-  "regularExpressionMatching_pp_dp.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  1366
-  '(1575 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . utf-8-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/regularExpressionMatching/regularExpressionMatching_pp_memSearch.cpp"
-  "regularExpressionMatching_pp_memSearch.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  2515
-  '(2515 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . utf-8-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/regularExpressionMatching/regularExpressionMatching.cpp"
-  "regularExpressionMatching.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  1237
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . utf-8-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_28MAY2015_newRankValues.c"
-  "casidx_append_table_28MAY2015_newRankValues.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  28454
-  '(29105 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_26MAY2015_toReview.c"
-  "casidx_append_table_26MAY2015_toReview.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  35391
-  '(31956 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_build_index.c"
-  "casidx_build_index.c<2><2><2><2>"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  41233
-  '(2324 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_23MAY2015_NoLock.c"
-  "casidx_append_table_23MAY2015_NoLock.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  3907
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_20MAY2015.c"
-  "casidx_append_table_20MAY2015.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  28396
-  '(37624 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_13MAY2015_round_robin.c"
-  "casidx_append_table_13MAY2015_round_robin.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  17374
-  '(17616 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_14MAY2015.c"
-  "casidx_append_table_14MAY2015.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  2540
-  '(35347 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_21MAY2015_add_lock.c"
-  "casidx_append_table_21MAY2015_add_lock.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  20458
-  '(33160 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/prog/tglib/src/lib/tgstd/dl_tab/dl_tab_func.h"
-  "dl_tab_func.h"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  1553
-  '(1 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-appendTable/tkmcidx.tkmsg"
-  "tkmcidx.tkmsg<2><2><2>"
-  'fundamental-mode
-  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
-  4105
-  '(3068 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/zigZagConversion/zigZagConversion.cpp"
-  "zigZagConversion.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  1190
-  '(860 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/longestPalindromicSubstring/longestPalindromicSubstring.cpp"
-  "longestPalindromicSubstring.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  1111
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/longestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters_pp.cpp"
-  "longestSubstringWithoutRepeatingCharacters_pp.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  794
-  '(1 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . utf-8-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/addTwoNumbers/addTwoNumbers_pp.cpp"
-  "addTwoNumbers_pp.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  2
-  '(1 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . utf-8-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/twoSum/twoSum_pp.cpp"
-  "twoSum_pp.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  1046
-  '(1 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . utf-8-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/twoSum/#twoSum_pp.cpp#~"
-  "#twoSum_pp.cpp#~"
-  'fundamental-mode
-  '(yas-minor-mode indent-guide-mode helm-mode projectile-mode)
-  1
-  '(nil nil)
-  t
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/cc-mode/while"
-  "while"
-  'snippet-mode
-  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
-  92
-  '(52 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/cc-mode/do"
-  "do"
-  'snippet-mode
-  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
-  82
-  '(42 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/letterCombinationsOfAPhoneNumber/letterCombinationsofAPhoneNumber_pp.cpp"
-  "letterCombinationsofAPhoneNumber_pp.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  933
-  '(4894 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . utf-8-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_10MAY2015_sendSerially.c"
-  "casidx_append_table_10MAY2015_sendSerially.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  23986
-  '(17461 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_10MAY2015_averageRowNum.c"
-  "casidx_append_table_10MAY2015_averageRowNum.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  18236
-  '(13195 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_07MAY2015_NotPromoteTempTable.c"
-  "casidx_append_table_07MAY2015_NotPromoteTempTable.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  13616
-  '(22632 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/letterCombinationsOfAPhoneNumber/letterCombinationsofAPhoneNumber_pp"
-  "letterCombinationsofAPhoneNumber_pp"
-  'fundamental-mode
-  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
   1
   '(nil nil)
   nil
   nil
-  '((buffer-file-coding-system . no-conversion)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/letterCombinationsOfAPhoneNumber/letterCombinationsOfAPhoneNumber.cpp"
-  "letterCombinationsOfAPhoneNumber.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  2324
-  '(130 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/root/.bash_profile"
-  ".bash_profile"
-  'sh-mode
-  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
-  1321
-  '(91 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/.bash_profile"
-  ".bash_profile<2>"
-  'sh-mode
-  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
-  1231
-  '(1 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/largestRectangleInHistogram/largestRectangleInHistogram.cpp"
-  "largestRectangleInHistogram.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  4293
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . utf-8-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/largestRectangleInHistogram/largestRectangleInHistogram_pp.cpp"
-  "largestRectangleInHistogram_pp.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  1248
-  '(757 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_06MAY2015_useTempTable.c"
-  "casidx_append_table_06MAY2015_useTempTable.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  22808
-  '(17894 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-createTable/casidx_build_index.c"
-  "casidx_build_index.c<2><3>"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  12517
-  '(12151 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_06MAY2015_new_design.c"
-  "casidx_append_table_06MAY2015_new_design.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  22518
-  '(22067 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_06MAY2015.c"
-  "casidx_append_table_06MAY2015.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  22325
-  '(4094 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_tmpTable_addRow_worker.c"
-  "casidx_append_table_tmpTable_addRow_worker.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  16484
-  '(21942 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table.c"
-  "casidx_append_table.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  24398
-  '(24286 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_add_row.c"
-  "casidx_append_table_add_row.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  24395
-  '(24286 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_use_tmpTable.c"
-  "casidx_append_table_use_tmpTable.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  16320
-  '(13056 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/prog/tglib/src/lib/tgdt/json/json_object.h"
-  "json_object.h"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  531
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-createTable/casidx_get_schema_2015April16.c"
-  "casidx_get_schema_2015April16.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  20442
-  '(20240 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/prog/tglib/src/lib/tgdt/json/json_number.h"
-  "json_number.h"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/prog/tglib/src/lib/tgdt/json/json_number.c"
-  "json_number.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  72
-  '(322 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/prog/tglib/src/lib/tgdt/json/json_string.h"
-  "json_string.h"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-appendTable/casidx.prm.bak"
-  "casidx.prm.bak"
-  'fundamental-mode
-  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
-  14916
-  '(929 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/cc-mode/else"
-  "else<2><2>"
-  'fundamental-mode
-  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
-  77
-  '(1 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . utf-8-unix)))
-
-(desktop-create-buffer 206
-  "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/go-mode/else"
-  "else"
-  'snippet-mode
-  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/prog/tglib/src/lib/tgstd/dp_tab/dp_tab_func.h"
-  "dp_tab_func.h"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  1293
-  '(361 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/cc-mode/for"
-  "for"
-  'snippet-mode
-  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
-  93
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/prog/tglib/src/lib/tgstd/dp_tab/dp_tab.c"
-  "dp_tab.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  5277
-  '(1 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/prog/tglib/src/lib/tgstd/dp_tab/dp_tab.h"
-  "dp_tab.h"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  268
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/prog/tglib/src/lib/tgstd/d_strings/d_strings.h"
-  "d_strings.h"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  799
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-createTable/casidx_search_index.c"
-  "casidx_search_index.c<2><2><2><2>"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  1
-  '(18396 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-createTable/casidx_create_table.c"
-  "casidx_create_table.c<2><2>"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  3047
-  '(4189 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
-
-(desktop-create-buffer 206
-  "/root/.emacs.d/elpa/yasnippet-20150415.244/yasnippet.el"
-  "yasnippet.el"
-  'emacs-lisp-mode
-  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
-  33215
-  '(1 nil)
-  nil
-  nil
-  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
-
-(desktop-create-buffer 206
-  "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/c++-mode/cout"
-  "cout"
-  'snippet-mode
-  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/go-mode/if"
-  "if<3><2>"
-  'snippet-mode
-  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/java-mode/for"
-  "for<2><2>"
-  'snippet-mode
-  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/java-mode/if"
-  "if<2>"
-  'snippet-mode
-  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/cc-mode/ifdef"
-  "ifdef"
-  'snippet-mode
-  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/snippet-mode/cont"
-  "cont"
-  'snippet-mode
-  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/snippet-mode/vars"
-  "vars"
-  'snippet-mode
-  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/root/.emacs.d/elpa/yasnippet-20150415.244/snippets/emacs-lisp-mode/if"
-  "if<2><2>"
-  'snippet-mode
-  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
-  60
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/wordLadder/wordLadder.II.cpp"
-  "wordLadder.II.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  1305
-  '(2268 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/wordLadder/wordLadderII_scnhpl.cpp"
-  "wordLadderII_scnhpl.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  3435
-  '(3428 nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/usr/share/emacs/24.3/lisp/loaddefs.el"
-  "loaddefs.el"
-  'emacs-lisp-mode
-  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
-  306660
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . utf-8-unix)))
-
-(desktop-create-buffer 206
-  "/usr/include/c++/4.8/bits/stl_deque.h"
-  "stl_deque.h"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  7629
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/usr/include/c++/4.8/bits/stl_vector.h"
-  "stl_vector.h"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  26570
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/medianOfTwoSortedArrays/medianOfTwoSortedArrays.cpp"
-  "medianOfTwoSortedArrays.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/medianOfTwoSortedArrays/medianOfTwoSortedArrays_pp.cpp"
-  "medianOfTwoSortedArrays_pp.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . utf-8-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/longestSubstringWithoutRepeatingCharacters/longestSubstringWithoutRepeatingCharacters.cpp"
-  "longestSubstringWithoutRepeatingCharacters.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/palindromeNumber/palindromeNumber.cpp"
-  "palindromeNumber.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/reverseInteger/reverseInteger_pp.cpp"
-  "reverseInteger_pp.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/reverseInteger/reverseInteger.cpp"
-  "reverseInteger.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/zigZagConversion/zigZagConversion_pp.cpp"
-  "zigZagConversion_pp.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/palindromeNumber/palindromeNumber_pp.cpp"
-  "palindromeNumber_pp.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_27MAY2015_serial_roundRobin_intPtr.c"
-  "casidx_append_table_27MAY2015_serial_roundRobin_intPtr.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_table_27MAY2015_serial_roundRobin.c"
-  "casidx_append_table_27MAY2015_serial_roundRobin.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/usr/include/c++/4.8/ext/alloc_traits.h"
-  "alloc_traits.h"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  7686
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/usr/include/c++/4.8/bits/allocator.h"
-  "allocator.h"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  3691
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/usr/include/c++/4.8/ext/new_allocator.h"
-  "new_allocator.h"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  2526
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/subsets/subsets.II.cpp"
-  "subsets.II.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/pathSum/pathSum.II.cpp"
-  "pathSum.II.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/minStack/minStack.cpp"
-  "minStack.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/generateParentheses/generateParentheses.cpp"
-  "generateParentheses.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  1036
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/usr/include/c++/4.8/bits/stl_stack.h"
-  "stl_stack.h"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/usr/include/c++/4.8/bits/basic_string.h"
-  "basic_string.h"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
-  89707
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/swapNodesInPairs/swapNodesInPairs_pp.cpp"
-  "swapNodesInPairs_pp.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_CVS.c"
-  "casidx_build_index_CVS.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/divideTwoInt/divideTwoInt.cpp"
-  "divideTwoInt.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/searchInRotatedSortedArray/searchInRotatedSortedArray.cpp"
-  "searchInRotatedSortedArray.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/searchInRotatedSortedArray/searchInRotatedSortedArray.II.cpp"
-  "searchInRotatedSortedArray.II.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/findMinimumInRotatedSortedArray/findMinimumInRotatedSortedArray.II.cpp"
-  "findMinimumInRotatedSortedArray.II.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX-appendTable/casidx_append_index_CASIDX124_16June.c"
-  "casidx_append_index_CASIDX124_16June.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_16May2015.c"
-  "casidx_build_index_16May2015.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_20Jun2015_open_table.c"
-  "casidx_build_index_20Jun2015_open_table.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/CASIDX123-buildIndex/casidx_build_index_26Jun2015.c"
-  "casidx_build_index_26Jun2015.c"
-  'c-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
-  1
-  '(nil nil)
-  nil
-  nil
-  '((buffer-file-coding-system . undecided-unix)))
-
-(desktop-create-buffer 206
-  "/home/scnhpl/CAS/tktg-playpen/src/casidx_search_index.c"
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/NCASIDX/src/casidx_search_index.c"
   "casidx_search_index.c"
   'c-mode
   '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
@@ -1873,82 +398,3270 @@
   '(nil nil)
   nil
   nil
-  '((buffer-file-coding-system . undecided-unix)))
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
 
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/substringWithConcatenationOfAllWords/substringWithConcatenationOfAllWords.cpp"
-  "substringWithConcatenationOfAllWords.cpp"
+(desktop-create-buffer 208
+  "/home/hpl/NCASIDX/src/searcha_join.c"
+  "searcha_join.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/mnt/hgfs/OneDrive/ORG-SCNHPL/work.org"
+  "work.org"
+  'org-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines . t))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/asr_egs/wsj/run_ctc_phn.sh"
+  "run_ctc_phn.sh"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/asr_egs/wsj/utils/ctc_compile_dict_token.sh"
+  "ctc_compile_dict_token.sh"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/src/fstbin/fstminimizeencoded.cc"
+  "fstminimizeencoded.cc"
   'c++-mode
   '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
   1
   '(nil nil)
   nil
   nil
-  '((buffer-file-coding-system . undecided-unix)))
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
 
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/substringWithConcatenationOfAllWords/substringWithConcatenationOfAllWords_pp.cpp"
-  "substringWithConcatenationOfAllWords_pp.cpp"
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/src/fstbin/fstdeterminizestar.cc"
+  "fstdeterminizestar.cc"
   'c++-mode
   '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
   1
   '(nil nil)
   nil
   nil
-  '((buffer-file-coding-system . undecided-unix)))
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
 
-(desktop-create-buffer 206
-  "/usr/include/c++/4.8/bits/stl_map.h"
-  "stl_map.h"
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/src/fstbin/fstdeterminizelog.cc"
+  "fstdeterminizelog.cc"
   'c++-mode
   '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
   1
   '(nil nil)
   nil
   nil
-  '((buffer-file-coding-system . undecided-unix)))
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
 
-(desktop-create-buffer 206
-  "/usr/include/c++/4.8/bits/stl_tree.h"
-  "stl_tree.h"
+(desktop-create-buffer 208
+  "/home/hpl/tgwfst/Python/lib/wfstDeterminization.py"
+  "wfstDeterminization.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/tgwfst/Python/lib/shortestDistance.py"
+  "shortestDistance.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/NCASIDX/grm/casidx.prm"
+  "casidx.prm"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/tgwfst/Python/lib/8365_2sents/8365.lm"
+  "8365.lm"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/tgwfst/Python/lib/bkup_wfstCompose.py"
+  "bkup_wfstCompose.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/tgwfst/Python/lib/8365_2sents/8365.dic"
+  "8365.dic"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/tgwfst/Python/lib/corpus.txt"
+  "corpus.txt"
+  'text-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/tgwfst/Python/lib/test_eps.py"
+  "test_eps.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/OpenFST/openfst-1.6.2/src/script/compose.cc"
+  "compose.cc"
   'c++-mode
   '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
   1
   '(nil nil)
   nil
   nil
-  '((buffer-file-coding-system . undecided-unix)))
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
 
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/searchForRange/searchForRange.cpp"
-  "searchForRange.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
+(desktop-create-buffer 208
+  "/home/hpl/tgwfst/Python/lib/mF2.fst"
+  "mF2.fst"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
   1
   '(nil nil)
   nil
   nil
-  '((buffer-file-coding-system . undecided-unix)))
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
 
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/searchInsertPosition/searchInsertPosition.cpp"
-  "searchInsertPosition.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
+(desktop-create-buffer 208
+  "/home/hpl/tgwfst/Python/lib/matchingFilter.fst"
+  "matchingFilter.fst"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
   1
   '(nil nil)
   nil
   nil
-  '((buffer-file-coding-system . utf-8-unix)))
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
 
-(desktop-create-buffer 206
-  "/tg/my/leetcode/src/searchInsertPosition/searchInsertPosition_pp.cpp"
-  "searchInsertPosition_pp.cpp"
-  'c++-mode
-  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode)
+(desktop-create-buffer 208
+  "/home/hpl/tgwfst/Python/lib/B.eps.fst"
+  "B.eps.fst"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
   1
   '(nil nil)
   nil
   nil
-  '((buffer-file-coding-system . undecided-unix)))
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/tgwfst/Python/lib/A.eps.fst"
+  "A.eps.fst"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/src/nnet2bin/nnet-latgen-faster.cc"
+  "nnet-latgen-faster.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/asr_egs/wsj/steps/decode_ctc_lat.sh"
+  "decode_ctc_lat.sh"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/asr_egs/wsj/run_ctc_char.sh"
+  "run_ctc_char.sh"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/Automatic_Speech_Recognition/src/models/decoder.py"
+  "decoder.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/src/fstext/fstext-utils.h"
+  "fstext-utils.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/src/fstbin/fstminimizeencoded.cc"
+  "fstminimizeencoded.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/src/doc/graph.dox"
+  "graph.dox"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/tgwfst/Python/lib/DFAminimization.py"
+  "DFAminimization.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/tgwfst/Python/lib/wfst.py"
+  "wfst.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/tgwfst/Python/lib/test_mini.py"
+  "test_mini.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/tgwfst/Python/lib/testDeterminization.py"
+  "testDeterminization.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/tgwfst/Python/lib/DFA.fst"
+  "DFA.fst"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/tgwfst/Python/lib/detmin.fst"
+  "detmin.fst"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/src/matrix/srfft.h"
+  "srfft.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/src/base/kaldi-common.h"
+  "kaldi-common.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/src/feat/signal.cc"
+  "signal.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/src/feat/signal.h"
+  "signal.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/src/util/common-utils.h"
+  "common-utils.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/src/featbin/compute-mfcc-feats.cc"
+  "compute-mfcc-feats.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/tgwfst/Python/lib/semirings.py"
+  "semirings.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/tgwfst/Python/lib/A.char.fst"
+  "A.char.fst"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/tgwfst/Python/lib/wfstCompile.py"
+  "wfstCompile.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/src/fstbin/fsttablecompose.cc"
+  "fsttablecompose.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/asr_egs/wsj/steps/decode_ctc.sh"
+  "decode_ctc.sh"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/tgwfst/Python/lib/test.py"
+  "test.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/tgwfst/Python/lib/B.char.fst"
+  "B.char.fst"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/tgwfst/Python/lib/B.fst"
+  "B.fst"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/tgwfst/Python/lib/A.fst"
+  "A.fst"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/tgwfst/Python/egs/A.fst"
+  "A.fst"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/tgwfst/Python/lib/tropicalWeight.py"
+  "tropicalWeight.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/OpenFST/openfst-1.6.2/src/bin/fstcompile.cc"
+  "fstcompile.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/OpenFST/openfst-1.6.2/src/script/compile.cc"
+  "compile.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/casspeech/python-script/pydnn/dnn_lib.py"
+  "dnn_lib.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/NCASIDX/msg/en/mrulesco.tkmsg"
+  "mrulesco.tkmsg"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/OpenFST/openfst-1.6.2/egs/debug_compose.txt"
+  "debug_compose.txt"
+  'text-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/OpenFST/openfst-1.6.2/src/include/fst/script/script-impl.h"
+  "script-impl.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/OpenFST/openfst-1.6.2/src/bin/fstcompose.cc"
+  "fstcompose.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/OpenFST/openfst-1.6.2/src/include/fst/compose.h"
+  "compose.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/OpenFST/openfst-1.6.2/src/include/fst/connect.h"
+  "connect.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/OpenFST/openfst-1.6.2/egs/Composed.print.fst"
+  "Composed.print.fst"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/OpenFST/openfst-1.6.2/INSTALL"
+  "INSTALL"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/OpenFST/openfst-1.6.2/README"
+  "README"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/mitlm/README"
+  "README"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/OpenFST/openfst-1.6.2/Makefile"
+  "Makefile"
+  'makefile-gmake-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/OpenFST/openfst-1.6.2/config.h"
+  "config.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/OpenFST/openfst-1.6.2/configure"
+  "configure"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/OpenFST/openfst-1.6.2/Makefile.in"
+  "Makefile.in"
+  'makefile-gmake-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/OpenFST/openfst-1.6.2/Makefile.am"
+  "Makefile.am"
+  'makefile-automake-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/OpenFST/openfst-1.6.2/egs/A.fst"
+  "A.fst"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/OpenFST/openfst-1.6.2/egs/B.fst"
+  "B.fst"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/OpenFST/openfst-1.6.2/egs/osyms.txt"
+  "osyms.txt"
+  'text-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/OpenFST/openfst-1.6.2/egs/isyms.txt"
+  "isyms.txt"
+  'text-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/OpenFST/openfst-1.6.2/egs/text.fst"
+  "text.fst"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/OpenFST/openfst-1.6.2/src/include/fst/compose-filter.h"
+  "compose-filter.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/OpenFST/openfst-1.6.2/src/script/getters.cc"
+  "getters.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/OpenFST/openfst-1.6.2/src/lib/properties.cc"
+  "properties.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/OpenFST/openfst-1.6.2/src/lib/symbol-table-ops.cc"
+  "symbol-table-ops.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/OpenFST/openfst-1.6.2/src/lib/fst.cc"
+  "fst.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/OpenFST/openfst-1.6.2/src/script/closure.cc"
+  "closure.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/OpenFST/openfst-1.6.2/src/script/fst-class.cc"
+  "fst-class.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/OpenFST/openfst-1.6.2/src/script/minimize.cc"
+  "minimize.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/casspeech/eesen/asr_egs/librispeech/steps/dump_ctc_data.sh"
+  "dump_ctc_data.sh"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/casspeech/eesen/asr_egs/librispeech/steps/train_ctc_parallel.sh"
+  "train_ctc_parallel.sh"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/casspeech/eesen/src/dump-ctc-data.cc"
+  "dump-ctc-data.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/casspeech/kaldi-code/nnet-convert-egs-context.cc"
+  "nnet-convert-egs-context.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/casspeech/eesen/src/train-ctc-parallel.cc"
+  "train-ctc-parallel.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/casspeech/eesen/asr_egs/librispeech/run_ctc_phn.sh"
+  "run_ctc_phn.sh"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/casspeech/kaldi-code/nnet-convert-egs-raw.cc"
+  "nnet-convert-egs-raw.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/mnt/hgfs/H/WebDev/test/CSS/test.css"
+  "test.css"
+  'css-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/mnt/hgfs/H/WebDev/test/HTML/test.html"
+  "test.html"
+  'html-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/mnt/hgfs/H/WebDev/test/test.html"
+  "test.html"
+  'html-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/webDev/HTML/test.html"
+  "test.html"
+  'html-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/NCASIDX/src/casidx_delete_documents.c"
+  "casidx_delete_documents.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/src/netbin/train-ctc-parallel.cc"
+  "train-ctc-parallel.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/src/netbin/train-ce.cc"
+  "train-ce.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/asr_egs/wsj/local/wsj_data_prep.sh"
+  "wsj_data_prep.sh"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/src/net/ctc-loss.h"
+  "ctc-loss.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/src/net/ctc-loss.cc"
+  "ctc-loss.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/src/online2bin/online2-wav-nnet2-latgen-faster.cc"
+  "online2-wav-nnet2-latgen-faster.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/asr_egs/wsj/steps/train_ctc_parallel.sh"
+  "train_ctc_parallel.sh"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/casspeech/python-script/pydnn/dnn_test.py"
+  "dnn_test.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/casspeech/python-script/pydnn/greedyLayerWiseTraining3.py"
+  "greedyLayerWiseTraining3.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/casspeech/python-script/pydnn/load_speech_data.py"
+  "load_speech_data.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/NCASIDX/msg/en/mruledev.tkmsg"
+  "mruledev.tkmsg"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/src/nnet2/decodable-am-nnet.h"
+  "decodable-am-nnet.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/src/decoder/simple-decoder.cc"
+  "simple-decoder.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/src/decoder/lattice-simple-decoder.h"
+  "lattice-simple-decoder.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/src/decoder/lattice-simple-decoder.cc"
+  "lattice-simple-decoder.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/src/decoder/faster-decoder.cc"
+  "faster-decoder.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/src/decoder/decoder-wrappers.cc"
+  "decoder-wrappers.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/src/decoder/faster-decoder.cc"
+  "faster-decoder.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/src/nnet2/nnet-compute.h"
+  "nnet-compute.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/src/decoder/simple-decoder.h"
+  "simple-decoder.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/src/decoderbin/latgen-faster.cc"
+  "latgen-faster.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/src/decoder/faster-decoder.h"
+  "faster-decoder.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/src/decoder/lattice-faster-decoder.cc"
+  "lattice-faster-decoder.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/src/decoder/lattice-faster-decoder.h"
+  "lattice-faster-decoder.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/src/netbin/net-output-extract.cc"
+  "net-output-extract.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/NCASIDX/script/casidx.bld"
+  "casidx.bld"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/NCASIDX/src/casidx_get_schema.c"
+  "casidx_get_schema.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/NCASIDX/grm/searchanalytics.prm"
+  "searchanalytics.prm"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/NCASIDX/script/searchanalytics.bld"
+  "searchanalytics.bld"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/NCASIDX/h/searchanalyticsp.h"
+  "searchanalyticsp.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/NCASIDX/h/rulesco.h"
+  "rulesco.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/NCASIDX/h/rulescop.h"
+  "rulescop.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/NCASIDX/h/searchanalytics.h"
+  "searchanalytics.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/NCASIDX/h/ruledevp.h"
+  "ruledevp.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/NCASIDX/src/casidx_save_index_to_table.c"
+  "casidx_save_index_to_table.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/NCASIDX/h/ruledev.h"
+  "ruledev.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/NCASIDX/msg/en/msearcha.tkmsg"
+  "msearcha.tkmsg"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/NCASIDX/script/rulesco.bld"
+  "rulesco.bld"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/NCASIDX/script/ruledev.bld"
+  "ruledev.bld"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/NCASIDX/h/casidx.h"
+  "casidx.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/leetcode/src/nimGame/nimGame.cpp"
+  "nimGame.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/leetcode/src/nimGame/nimGame2.cpp"
+  "nimGame2.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/test/test3.c"
+  "test3.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/test/test2.c"
+  "test2.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/test/test.c"
+  "test.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/test/test.txt"
+  "test.txt"
+  'text-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . no-conversion))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/asr_egs/wsj/local/wsj_prepare_phn_dict.sh"
+  "wsj_prepare_phn_dict.sh"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/asr_egs/wsj/local/wsj_prepare_char_dict.sh"
+  "wsj_prepare_char_dict.sh"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/asr_egs/wsj/utils/s2eps.pl"
+  "s2eps.pl"
+  'perl-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/asr_egs/wsj/utils/ctc_token_fst.py"
+  "ctc_token_fst.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/asr_egs/wsj/local/score.sh"
+  "score.sh"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/asr_egs/tedlium/v1/local/score_sclite.sh"
+  "score_sclite.sh"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/src/net/class-prior.h"
+  "class-prior.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/src/net/class-prior.cc"
+  "class-prior.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/.git/index"
+  "index"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . no-conversion))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/src/gpucompute/cuda-matrix.cc"
+  "cuda-matrix.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/src/gpucompute/cuda-kernels.cu"
+  "cuda-kernels.cu"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/src/gpucompute/cuda-kernels-wrappers.h"
+  "cuda-kernels-wrappers.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/src/gpucompute/cuda-matrix.h"
+  "cuda-matrix.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/Automatic_Speech_Recognition/README.md"
+  "README.md"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/Automatic_Speech_Recognition/PER.png"
+  "PER.png"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode image-minor-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . no-conversion))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/Automatic_Speech_Recognition/src/feature/calcmfcc.py"
+  "calcmfcc.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/Automatic_Speech_Recognition/src/feature/audio.py"
+  "audio.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/Automatic_Speech_Recognition/src/feature/timit_preprocess.py"
+  "timit_preprocess.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/Automatic_Speech_Recognition/src/feature/sigprocess.py"
+  "sigprocess.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/Automatic_Speech_Recognition/src/feature/libri_process.py"
+  "libri_process.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/Automatic_Speech_Recognition/src/feature/libri_preprocess.py"
+  "libri_preprocess.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/Automatic_Speech_Recognition/src/utils/utils.py"
+  "utils.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/Automatic_Speech_Recognition/src/train.py"
+  "train.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/Automatic_Speech_Recognition/src/run.sh"
+  "run.sh"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/Automatic_Speech_Recognition/src/Trash/utils.py"
+  "utils.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/Automatic_Speech_Recognition/src/models/brnn.py"
+  "brnn.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/src/featbin/compute-fbank-feats.cc"
+  "compute-fbank-feats.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/asr_egs/wsj/steps/make_fbank.sh"
+  "make_fbank.sh"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/asr_egs/wsj/utils/prep_ctc_trans.py"
+  "prep_ctc_trans.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/asr_egs/swbd/v1/run_ctc_char.sh"
+  "run_ctc_char.sh"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/asr_egs/swbd/v1/local/swbd1_data_prep.sh"
+  "swbd1_data_prep.sh"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/README.md"
+  "README.md"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/src/featbin/feat-to-len.cc"
+  "feat-to-len.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/asr_egs/wsj/steps/compute_cmvn_stats.sh"
+  "compute_cmvn_stats.sh"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/asr_egs/wsj/steps/train_ctc_parallel_x3.sh"
+  "train_ctc_parallel_x3.sh"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/NCASIDX/src/casidx_aggregation.c"
+  "casidx_aggregation.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/mitlm/src/KneserNeySmoothing.h"
+  "KneserNeySmoothing.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/CASIDX/src/casidx_aggregation.c"
+  "casidx_aggregation.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/mitlm/src/Types.h"
+  "Types.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/mitlm/src/NgramLM.h"
+  "NgramLM.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/mitlm/src/NgramLM.cpp"
+  "NgramLM.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/mitlm/src/KneserNeySmoothing.cpp"
+  "KneserNeySmoothing.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/mitlm/src/estimate-ngram.cpp"
+  "estimate-ngram.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/mitlm/configure.ac"
+  "configure.ac"
+  'autoconf-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/mitlm/configure"
+  "configure"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/mitlm/test.lm"
+  "test.lm"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/mitlm/test.txt"
+  "test.txt"
+  'text-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kenlm/lm/builder/lmplz_main.cc"
+  "lmplz_main.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/egs/librispeech/s5/local/lm/train_lm.sh"
+  "train_lm.sh"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/src/lmbin/arpa-to-const-arpa.cc"
+  "arpa-to-const-arpa.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/src/lmbin/arpa2fst.cc"
+  "arpa2fst.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/tools/install_srilm.sh"
+  "install_srilm.sh"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/egs/librispeech/s5/local/lm/python/text_pre_process.py"
+  "text_pre_process.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/egs/librispeech/s5/local/lm/normalize_text.sh"
+  "normalize_text.sh"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/egs/librispeech/s5/run.sh"
+  "run.sh"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/egs/librispeech/s5/local/data_prep.sh"
+  "data_prep.sh"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/egs/librispeech/s5/local/lm/python/text_post_process.py"
+  "text_post_process.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/egs/librispeech/s5/local/lm/python/pre_filter.py"
+  "pre_filter.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/egs/librispeech/s5/local/lm/install_festival.sh"
+  "install_festival.sh"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/src/lat/lattice-functions.cc"
+  "lattice-functions.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/src/lat/lattice-functions.h"
+  "lattice-functions.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/src/latbin/lattice-best-path.cc"
+  "lattice-best-path.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/egs/librispeech/s5/local/score.sh"
+  "score.sh"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/egs/wsj/s5/steps/decode.sh"
+  "decode.sh"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/src/nnet2bin/nnet-latgen-faster-parallel.cc"
+  "nnet-latgen-faster-parallel.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/src/decoder/decoder-wrappers.h"
+  "decoder-wrappers.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/src/decoder/biglm-faster-decoder.h"
+  "biglm-faster-decoder.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/UDACITY/DeepLearning/pre-process.py"
+  "pre-process.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/NCASIDX/src/#casidx_search_index.c#"
+  "#casidx_search_index.c#"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-emacs-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/stanford-ctc/ctc/ctc.py"
+  "ctc.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/stanford-ctc/ctc_fast/ctc-loss/ctc_fast.py"
+  "ctc_fast.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/stanford-ctc/ctc_fast/ctc-loss/ctc_fast.pyx"
+  "ctc_fast.pyx"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/warp-ctc/tensorflow_binding/src/ctc_op_kernel.cc"
+  "ctc_op_kernel.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/warp-ctc/tensorflow_binding/warpctc_tensorflow/__init__.py"
+  "__init__.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/lifeiteng_kaldiCTC/kaldi-ctc/src/ctc/ctc-nnet-update.cc"
+  "ctc-nnet-update.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/lifeiteng_kaldiCTC/kaldi-ctc/src/ctc/ctc-nnet-update.h"
+  "ctc-nnet-update.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/lifeiteng_kaldiCTC/kaldi-ctc/src/ctc/ctc-graph.h"
+  "ctc-graph.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/lifeiteng_kaldiCTC/kaldi-ctc/src/ctc/ctc-transition-model.h"
+  "ctc-transition-model.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/lifeiteng_kaldiCTC/kaldi-ctc/src/ctc/ctc-nnet-train.cc"
+  "ctc-nnet-train.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/stanford-ctc/README.md"
+  "README.md"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/stanford-ctc/ctc/ctc_fast.pyx"
+  "ctc_fast.pyx"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/stanford-ctc/ctc_fast/ctc-loss/setup.py"
+  "setup.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/rnn_ctc/utils.py"
+  "utils.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/rnn_ctc/scribe/alphabet.py"
+  "alphabet.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/rnn_ctc/scribe/scribe.py"
+  "scribe.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/rnn_ctc/nnet/updates.py"
+  "updates.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/rnn_ctc/nnet/neuralnet.py"
+  "neuralnet.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/lifeiteng_kaldiCTC/kaldi-ctc/src/ctc/ctc-nnet-train.h"
+  "ctc-nnet-train.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/lifeiteng_kaldiCTC/kaldi-ctc/src/ctc/ctc-nnet-example.h"
+  "ctc-nnet-example.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/speech-to-text-wavenet/train.py"
+  "train.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/speech-to-text-wavenet/recognize.py"
+  "recognize.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/speech-to-text-wavenet/png/loss.png"
+  "loss.png"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode image-minor-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . no-conversion))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/speech-to-text-wavenet/png/architecture.png"
+  "architecture.png"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode image-minor-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . no-conversion))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/kaldi/src/nnet3/nnet-utils.h"
+  "nnet-utils.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/src/netbin/train-ctc.cc"
+  "train-ctc.cc"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/eesen/src/gpucompute/ctc-utils.h"
+  "ctc-utils.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/casspeech/trans2wav.sh"
+  "trans2wav.sh"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/sox.sh"
+  "sox.sh"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/latest_podcasts_transcripts/proc_07Feb2017_Oliver.txt"
+  "proc_07Feb2017_Oliver.txt"
+  'text-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/latest_podcasts_transcripts/proc_15Aug2016.txt"
+  "proc_15Aug2016.txt"
+  'text-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/casspeech/python-script/cleantxt.py"
+  "cleantxt.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/casspeech/python-script/process-armistead-corpus.py"
+  "process-armistead-corpus.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-dos))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/casspeech/python-script/proc_transcript.py"
+  "proc_transcript.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/casspeech/kaldi-python/proc_egs.py"
+  "proc_egs.py"
+  'python-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/leetcode/src/stringToIntegerAtoi/stringToIntegerAtoi.cpp"
+  "stringToIntegerAtoi.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/leetcode/src/evaluateReversePolishNotation/evaluateReversePolishNotation.cpp"
+  "evaluateReversePolishNotation.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/Downloads/NCASIDX/src/casidx_get_schema.c"
+  "casidx_get_schema.c"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/mitlm/src/util/CommandOptions.cpp"
+  "CommandOptions.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/mitlm/src/vector/DenseVector.tcc"
+  "DenseVector.tcc"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/mitlm/src/vector/Range.h"
+  "Range.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/mitlm/src/util/SharedPtr.h"
+  "SharedPtr.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/usr/include/c++/5/bits/stl_vector.h"
+  "stl_vector.h"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  t
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/mitlm/src/util/RefCounter.h"
+  "RefCounter.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/usr/include/c++/5/tr1/hashtable_policy.h"
+  "hashtable_policy.h"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  t
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/usr/include/c++/5/tr1/hashtable.h"
+  "hashtable.h"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  t
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/mitlm/src/vector/VectorClosures.h"
+  "VectorClosures.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/usr/include/c++/5/bits/unique_ptr.h"
+  "unique_ptr.h"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  t
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/usr/include/c++/5/tuple"
+  "tuple"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  t
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/OpenFST/openfst-1.6.2/src/include/fst/script/fst-class.h"
+  "fst-class.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/OpenFST/openfst-1.6.2/src/include/fst/script/arg-packs.h"
+  "arg-packs.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/OpenFST/openfst-1.6.2/src/include/fst/arc.h"
+  "arc.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/OpenFST/openfst-1.6.2/src/include/fst/generic-register.h"
+  "generic-register.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/OpenFST/openfst-1.6.2/src/include/fst/script/compose.h"
+  "compose.h"
+  'c-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/bin/unixbb"
+  "unixbb"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  22
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/Downloads/kdiff3-0.9.98/INSTALL"
+  "INSTALL"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/bin/taglax03"
+  "taglax03"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/leetcode/src/excelSheetColumnNumber/excelSheelColumnNumber.cpp"
+  "excelSheelColumnNumber.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode helm-gtags-mode)
+  2017
+  '(1311 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1633 2147 1938 1920 1902 1884 1866 1848 1830 1812 1794 1776 1758 1740 1722 1704))))
+
+(desktop-create-buffer 208
+  "/home/hpl/.profile"
+  ".profile"
+  'sh-mode
+  '(auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/bin/lax94b01"
+  "lax94b01"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/leetcode/src/longestPalindrome/longestPalindrome.cpp"
+  "longestPalindrome.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode helm-gtags-mode)
+  470
+  '(3115 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (2943 1 2891 1))))
+
+(desktop-create-buffer 208
+  "/home/hpl/.ssh/id_rsa.pub"
+  "id_rsa.pub"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/hpl/leetcode/src/excelSheetColumnTitle/convertToTitle.cpp"
+  "convertToTitle.cpp"
+  'c++-mode
+  '(abbrev-mode auto-complete-mode yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode ggtags-mode hs-minor-mode helm-gtags-mode)
+  1370
+  '(1769 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1369 1 1869 1))))
+
+(desktop-create-buffer 208
+  "/home/hpl/Downloads/vmware-tools-distrib/INSTALL"
+  "INSTALL"
+  'fundamental-mode
+  '(yas-minor-mode autopair-mode indent-guide-mode helm-mode projectile-mode)
+  456
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
 

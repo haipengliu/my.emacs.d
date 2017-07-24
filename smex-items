@@ -1,18 +1,32 @@
 
 ;; ----- smex-history -----
 (
- shell
  package-list-packages
- package-install
- cd
- 5x5
- arp
- dbx
+ shell
+ align-regexp
+ regexp-builder
+ uncomment-region
+ comment-region
+ comment-box
 )
 
 ;; ----- smex-data -----
 (
- (shell . 5)
+ (shell . 412)
  (package-install . 3)
- (package-list-packages . 1)
+ (package-list-packages . 7)
+ (comment-box . 15)
+ (gdb . 7)
+ (replace-string . 3)
+ (align-regexp . 16)
+ (comment-region . 17)
+ (uncomment-region . 15)
+ (web-mode . 2)
+ (c-mode . 2)
+ (normal-mode . 1)
+ (align . 4)
+ (load-theme . 15)
+ (comment-dwim . 1)
+ (comment-dwim-2 . 1)
+ (regexp-builder . 1)
 )

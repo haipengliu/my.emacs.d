@@ -120,7 +120,15 @@
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
  '(custom-enabled-themes (quote (sanityinc-solarized-dark)))
- '(custom-safe-themes (quote ("1297a022df4228b81bc0436230f211bad168a117282c20ddcba2db8c6a200743" "4aee8551b53a43a883cb0b7f3255d6859d766b6c5e14bcb01bed572fcbef4328" default))))
+ '(custom-safe-themes
+   (quote
+    ("08b8807d23c290c840bbb14614a83878529359eaba1805618b3be7d61b0b0a32" "ff7625ad8aa2615eae96d6b4469fcc7d3d20b2e1ebc63b761a349bebbb9d23cb" "1297a022df4228b81bc0436230f211bad168a117282c20ddcba2db8c6a200743" "4aee8551b53a43a883cb0b7f3255d6859d766b6c5e14bcb01bed572fcbef4328" default)))
+ '(helm-gtags-auto-update t)
+ '(helm-gtags-ignore-case t)
+ '(helm-gtags-path-style (quote relative))
+ '(package-selected-packages
+   (quote
+    (multiple-cursors comment-dwim-2 atom-one-dark-theme dracula-theme web-mode yasnippet smex smartparens save-visited-files rebox2 readline-complete indent-guide iedit helm-projectile helm-gtags helm-dictionary ggtags function-args flymake-cppcheck flycheck expand-region color-theme-solarized color-theme-sanityinc-solarized buffer-utils buffer-stack autopair auto-complete ace-jump-buffer))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
@@ -201,8 +209,9 @@
 (add-hook 'asm-mode-hook 'helm-gtags-mode)
 
 ;; customize
-(custom-set-variables
- '(helm-gtags-path-style 'relative)
- '(helm-gtags-ignore-case t)
- '(helm-gtags-auto-update t))
+
+;; Multiple cursors
+(require 'multiple-cursors)
+(global-set-key (kbd "C-S-c C-S-c") 'mc/edit-lines)
+
 
